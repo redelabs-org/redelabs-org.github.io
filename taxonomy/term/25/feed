@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://redelabs.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rede//Labs - cparty</title>
+ <link>http://redelabs.org/wordpress-tag/cparty</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Redelabs - Campus Party</title>
+ <link>http://redelabs.org/blog/redelabs-campus-party</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Na próxima terça-feira (18/01) vou participar de um debate sobre &quot;&lt;a href=&quot;http://cpbrasil.ism.org.br/?page_id=311&quot;&gt;Laboratórios e centros de fomento à cultura digital&lt;/a&gt;&quot; na Campus Party. O debate é organizado pelo &lt;a href=&quot;http://www.ism.org.br&quot;&gt;Instituto Sergio Motta&lt;/a&gt; e conta também com &lt;a href=&quot;http://www.mis-sp.org.br&quot;&gt;Daniela Bousso&lt;/a&gt; e &lt;a href=&quot;http://twitter.com/kuja&quot;&gt;Guilherme Kujawski&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-tag/cparty&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;cparty&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/wordpress-tag/cpbr4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;cpbr4&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-tag/redelabs&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;redelabs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Categoria:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-category/eventos&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;eventos&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 16 Jan 2011 12:21:37 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">44 at http://redelabs.org</guid>
+ <comments>http://redelabs.org/blog/redelabs-campus-party#comments</comments>
+</item>
+</channel>
+</rss>

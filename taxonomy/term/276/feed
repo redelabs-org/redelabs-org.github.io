@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://redelabs.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rede//Labs - ocupe</title>
+ <link>http://redelabs.org/assunto/ocupe</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Tropixel Labs</title>
+ <link>http://redelabs.org/blog/tropixel-labs</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A rede &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/o-que&quot;&gt;Tropixel&lt;/a&gt; prepara para outubro deste ano mais uma edição do evento que busca articulações entre Arte, Ciência, Tecnologia e Sociedade. O plano para este ano é realizar um encontro internacional de laboratórios, discutindo temas como cidade, luz, liberdade, cultura e desenvolvimento. As atividades principais do &lt;a href=&quot;http://tropixel.ubalab.org&quot;&gt;Tropixel Labs&lt;/a&gt; acontecerão por volta dos dias 19 a 24 de outubro, coincidindo com a Semana Nacional de Ciência e Tecnologia. Alguns eixos do programa já em desenvolvimento são:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;OCUPE - Ocupação Cultural Praça Experimental;&lt;/li&gt;
+	&lt;li&gt;Um seminário sobre cidade, cultura, educação e desenvolvimento;&lt;/li&gt;
+	&lt;li&gt;Oficinas e sessões de trabalho ligados à plataforma Ciência Aberta Ubatuba&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;O evento tem uma convocatória aberta para colaborações, a partir do preenchimento de um &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/form/15-labs-parcerias&quot;&gt;formulário online&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/assunto/tropixelbr&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;tropixelbr&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/assunto/tropixel&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;tropixel&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-tag/ubalab&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;ubalab&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/ubatuba&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;ubatuba&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/assunto/ocupe&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;ocupe&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/assunto/ci%C3%AAncia-aberta&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;ciência aberta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Categoria:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-category/eventos&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;eventos&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 11 Jul 2015 03:00:00 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">128 at http://redelabs.org</guid>
+ <comments>http://redelabs.org/blog/tropixel-labs#comments</comments>
+</item>
+</channel>
+</rss>

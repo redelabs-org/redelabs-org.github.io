@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://redelabs.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rede//Labs - hackerspaces</title>
+ <link>http://redelabs.org/assunto/hackerspaces</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Fablabs, makerspaces, gambiarra e conserto</title>
+ <link>http://redelabs.org/blog/fablabs-makerspaces-gambiarra-e-conserto</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Escrevi mais uma coluna &lt;a href=&quot;http://arede.inf.br/edicoes-anteriores/2243-edicao-n-99-julho-agosto-2014/7033-raitequi-fablabs-makerspaces-gambiarra-e-conserto&quot;&gt;Raitéqui para a edição 99 da Revista A Rede&lt;/a&gt;. O texto é uma remixagem de um trecho da minha dissertação de mestrado, retrabalhado e algo ampliado. Como a versão publicada na revista está com alguns errinhos de revisão, publico aqui minha versão final.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Ilustração A Redde&quot; src=&quot;http://arede.inf.br/images/fotos-arede-99/arede-99-raitequi-fablabs-01.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Fablabs, makerspaces, gambiarra e conserto&lt;/h2&gt;
+
+&lt;p&gt;Surgidos a partir do Centro para Bits e Átomos (CBA) no Media Lab do MIT, os Fablabs - laboratórios de fabricação digital - são espaços em que se disponibilizam equipamentos para a criação e modificação de objetos a partir de arquivos digitais. Usam fresadoras, cortadoras de vinil e outros materiais, máquinas de bordar, impressoras e scanners 3D, entre outros. Boa parte destas tecnologias já existem há algumas décadas. Até recentemente, entretanto, estavam associadas exclusivamente à produção industrial ou à arquitetura, e seu uso era complicado. Mas diversos desenvolvimentos recentes colaboraram para baixar seus custos e tornar sua operação mais simples.&lt;/p&gt;
+
+&lt;p&gt;O surgimento dos Fablabs deve-se principalmente a pesquisas do MIT sobre o barateamento e o maior acesso a tais tecnologias, na esteira do curso &quot;como fazer (quase) qualquer coisa&quot; oferecido por Neil Gershenfeld, diretor do CBA. Logo os Fablabs seriam replicados no mundo inteiro, aliando-se ou inspirando projetos dedicados à fabricação digital como a Reprap, a Makerbot e outros. Um projeto brasileiro que orbita essa área é a Metamáquina, primeira fabricante nacional de impressoras 3D de baixo custo.&lt;/p&gt;
+
+&lt;p&gt;Os Fablabs e suas tecnologias também tornaram-se mais conhecidos à medida em que passaram a ser identificados como ponta de lança de uma suposta &quot;nova revolução industrial&quot;. As tecnologias de fabricação propriamente ditas têm bastante em comum com outras tendências atualmente em voga, como o hardware livre, a computação física e os hackerspaces. Tomadas em conjunto, comporiam a chamada &quot;maker culture&quot; (que pode ser traduzida como cultura da fabricação). Além dos Fablabs - usualmente ligados a instituições acadêmicas ou comerciais -, existem também espaços para a cultura maker voltados a um público mais amplo, os chamados makerspaces. Se os Fablabs voltam-se primordialmente a estudantes universitários de design e engenharia, os makerspaces estariam mais abertos a amadores, hackers e mesmo artesãos.&lt;/p&gt;
+
+&lt;p&gt;Um dos nomes de peso a afirmar a cultura maker como plataforma para a nova revolução industrial é Chris Anderson, que já foi editor da revista Wired e coordenador das conferências TED. Para ele, uma das principais implicações da fabricação digital é expandir o horizonte de atuação da inovação tecnológica - não mais limitada às redes digitais e mídias sociais, mas agora aberta ao que ele chama &quot;mundo dos átomos&quot;. Sugere que uma abertura a ideias comerciais inovadoras supostamente presente nas startups digitais da internet estaria agora acessível a inventores-empreendedores voltados para a criação de novos produtos.&lt;/p&gt;
+
+&lt;p&gt;Apesar de toda a retórica &quot;revolucionária&quot;, é importante perceber que essa vertente comercial da cultura maker costuma utilizar-se de um vocabulário oriundo da produção industrial, quase sem questioná-lo. Neste discurso, a relevância das tecnologias de fabricação digital se daria porque inventores em potencial poderiam &quot;prototipar&quot; suas invenções a um custo baixo.&lt;/p&gt;
+
+&lt;p&gt;Para o pesquisador brasileiro Gabriel Menotti, o protótipo é &quot;um objeto crítico de sua própria função&quot;. Em outras palavras, o protótipo só existiria enquanto etapa anterior à concretização da versão definitiva de determinado produto. Entretanto, frente às múltiplas potencialidades sugeridas pelas tecnologias de fabricação digital, pensar somente em protótipos poderia ser um equívoco. Para Menotti, afirmar um objeto como protótipo implica assumir que sua única função é simular um objeto que será fabricado posteriormente, o que restringiria suas possíveis interpretações. Sugere então a necessidade de pensar outras definições para os objetos resultantes da criatividade aplicada às novas tecnologias de fabricação digital. Para ele a gambiarra, ao contrário do protótipo, seria mais adequada a tempos pós-industriais.&lt;/p&gt;
+
+&lt;p&gt;No limite, a perspectiva da gambiarra estimula uma maior diversidade de maneiras de apropriação e invenção, a partir da exploração de indeterminações materiais. Ou seja, aumentam-se as possibilidades de usos criativos dos objetos fabricados à medida em que se recusam o encerramento e a delimitação de suas funções potenciais. Mais do que replicar em escala local os processos industriais, as tecnologias de fabricação poderiam assim indicar outras formas de articulação entre criatividade e objetos materiais, carregadas de significado e relevância.&lt;/p&gt;
+
+&lt;p&gt;É precisamente na encruzilhada entre o grande potencial de transformação local e coletiva trazido pelas tecnologias de fabricação digital e sua assimilação pelos mecanismos globais de uma economia industrial baseada essencialmente na especulação e na publicidade que se situa o projeto ReFab Space, do Access Space, na Inglaterra. O projeto surgiu quando o Access Space recebeu doações de máquinas digitais de fabricação industrial, mas configurou-se de maneira diversa dos Fablabs.&lt;/p&gt;
+
+&lt;p&gt;De certa forma, a diferença entre um Fablab típico e o ReFab Space é parecida à distinção entre o protótipo e a gambiarra. O Access Space é reconhecido internacionalmente por sua atuação no tema do lixo eletrônico. Sua articulação pode sugerir uma produtiva contraposição entre a &quot;cultura da fabricação&quot; e o que poderia ser chamado de &quot;cultura do conserto&quot;. De fato, em uma época na qual a humanidade produz quantidades imensas e crescentes de lixo cuja proporção potencial de reciclagem pode no máximo (com otimismo) manter-se estável, a mera sugestão de multiplicarem-se os meios de fabricação de novos objetos deveria ser profundamente questionada. A alternativa, utilizar as tecnologias de fabricação para produzirem-se peças que possibilitem a reutilização de materiais, equipamentos e objetos, parece muito mais apropriada.&lt;/p&gt;
+
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;h3&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.fablabs.io/&quot;&gt;https://www.fablabs.io/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://cba.mit.edu/&quot;&gt;http://cba.mit.edu/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://reprap.org/&quot;&gt;http://reprap.org/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://makerbot.com/&quot;&gt;http://makerbot.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://metamaquina.com.br/&quot;&gt;http://metamaquina.com.br/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://refab-space.org/&quot;&gt;http://refab-space.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;---&lt;/p&gt;
+
+&lt;p&gt;Felipe Fonseca é coordenador do núcleo &lt;a href=&quot;http://ubalab.org&quot;&gt;Ubalab&lt;/a&gt;. Vive em Ubatuba/SP, onde organiza o &lt;a href=&quot;http://tropixel.ubalab.org&quot;&gt;Tropixel&lt;/a&gt; e leciona na Escola Técnica Municipal Tancredo de Almeida Neves.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/assunto/gambiarra&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;gambiarra&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/labs&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;labs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/assunto/hackerspaces&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;hackerspaces&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/assunto/fablab&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;fablab&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/assunto/makerspaces&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;makerspaces&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Categoria:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress-category/espacos&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;espaços&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Aug 2014 02:40:26 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">91 at http://redelabs.org</guid>
+ <comments>http://redelabs.org/blog/fablabs-makerspaces-gambiarra-e-conserto#comments</comments>
+</item>
+</channel>
+</rss>
