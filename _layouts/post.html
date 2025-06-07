@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post mb-5">
+  <header class="post-header">
+    <h1 class="post-title display-5 mb-3">{{ page.title | escape }}</h1>
+    <p class="post-meta text-muted">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span>
+      {% endif %}
+    </p>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  {% if page.tags.size > 0 %}
+  <div class="mt-4">
+    <strong>Tags:</strong> <span class="ms-2">{% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" class="badge bg-secondary text-decoration-none link-light me-1">{{ tag }}</a>{% endfor %}</span>
+  </div>
+  {% endif %}
+  {% if page.categories.size > 0 %}
+  <div class="mt-3">
+    <strong>Categorias:</strong> <span class="ms-2">{% for category in page.categories %}<a href="{{ site.baseurl }}/categories/#{{ category | slugify }}" class="badge bg-info text-decoration-none link-light me-1">{{ category }}</a>{% endfor %}</span>
+  </div>
+  {% endif %}
+</article>
