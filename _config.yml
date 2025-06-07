@@ -70,3 +70,7 @@ defaults:
       path: "_source_pages/*"
     values:
       layout: "page"
+
+sass:
+  load_paths:
+    - "/app/vendor/bundle/ruby/3.2.0/gems/bootstrap-5.3.5/assets/stylesheets"
