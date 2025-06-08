@@ -5,6 +5,7 @@ author: 'efeefe'
 date: 2011-04-27
 categories:
   - 'eventos'
+original_source: blog/brazil-no-labsurlab.html
 ---
 
 ::: {.field-item .even property="content:encoded"}

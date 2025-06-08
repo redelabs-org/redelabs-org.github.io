@@ -13,7 +13,7 @@ Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra
 
 <div>
 
-[![ITU](http://redelabs-org.github.io/sites/redelabs.org/files/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg "ITU"){.alignright .size-medium .wp-image-105 width="300" height="189"}](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
+[![ITU]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg "ITU"){.alignright .size-medium .wp-image-105 width="300" height="189"}](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra
 
 <div>
 
-**efeefe:** É uma questão em aberto. Há um interesse de várias áreas em fazer coisas enredadas, mas não existe uma ideia fechada nisso. [Redelabs](http://redelabs-org.github.io/) quer se perguntar exatamente isso: o que podemos propor? Ano passado, no processo do [Fórum de Cultura Digital](http://culturadigital.br/) , emergiu a demanda por medialabs. Mas geralmente o que se pensa como medialab é o que se fazia dez anos atrás: estruturas. Porém hoje em dia, pelo menos nas cidades grandes, existe banda larga, os computadores e câmeras são mais baratos. Ao mesmo tempo, há centenas de projetos no Brasil que poderiam ser vistos como medialabs táticos em diferentes sentidos. O importante não é mais a estrutura, mas uma estratégia de ocupação desses espaços que já existem. A ideia agora é conceber um projeto para propor uma estratégia de rede para esses espaços. Acho importante uma coisa mais próxima ao cotidiano, mas trazendo a reflexão sobre meios eletrônicos e o tipo de cultura que se pode fazer com meios eletrônicos quando eles se hibridizam com as culturas populares.
+**efeefe:** É uma questão em aberto. Há um interesse de várias áreas em fazer coisas enredadas, mas não existe uma ideia fechada nisso. [Redelabs]({{ "/" \| relative_url }}) quer se perguntar exatamente isso: o que podemos propor? Ano passado, no processo do [Fórum de Cultura Digital](http://culturadigital.br/) , emergiu a demanda por medialabs. Mas geralmente o que se pensa como medialab é o que se fazia dez anos atrás: estruturas. Porém hoje em dia, pelo menos nas cidades grandes, existe banda larga, os computadores e câmeras são mais baratos. Ao mesmo tempo, há centenas de projetos no Brasil que poderiam ser vistos como medialabs táticos em diferentes sentidos. O importante não é mais a estrutura, mas uma estratégia de ocupação desses espaços que já existem. A ideia agora é conceber um projeto para propor uma estratégia de rede para esses espaços. Acho importante uma coisa mais próxima ao cotidiano, mas trazendo a reflexão sobre meios eletrônicos e o tipo de cultura que se pode fazer com meios eletrônicos quando eles se hibridizam com as culturas populares.
 
 </div>
 

@@ -6,6 +6,7 @@ date: 2013-08-13
 categories:
   - 'eventos'
   - 'projetos'
+original_source: blog/convocatoria-para-colaboradores-interactivos13-nuvem.html
 ---
 
 ::: {.field-item .even property="content:encoded"}

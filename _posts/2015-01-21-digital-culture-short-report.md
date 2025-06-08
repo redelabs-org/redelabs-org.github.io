@@ -95,7 +95,7 @@ At this very moment, the Ministry is also jumpstarting the **Redelabs** project 
 
 <div>
 
-[5](#sdfootnote5anc){#sdfootnote5sym} Published in full (portuguese version only) here: [http://redelabs-org.github.io](http://redelabs-org.github.io/) .
+[5](#sdfootnote5anc){#sdfootnote5sym} Published in full (portuguese version only) here: [http://redelabs-org.github.io]({{ "/" \| relative_url }}) .
 
 </div>
 :::

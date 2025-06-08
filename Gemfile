@@ -18,4 +18,4 @@ group :jekyll_plugins do
   # For example:
   # gem "jekyll-sitemap"
 end
-gem "bootstrap", "~> 5.1"
+gem "jekyll-sitemap", "~> 1.4"

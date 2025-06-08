@@ -5,6 +5,7 @@ author: 'efeefe'
 date: 2010-09-15
 categories:
   - 'Sem categoria'
+original_source: blog/conversa-com-cesar-harada.html
 ---
 
 ::: {.field-item .even property="content:encoded"}
@@ -12,12 +13,12 @@ No começo do ano, eu estava dando uma vasculhada no site do projeto [Opensailin
 
 <div>
 
-Quando eu comecei a pesquisa [redelabs](http://redelabs-org.github.io/) , comecei uma conversa/entrevista com ele. Cesar estava no Quênia desenvolvendo a [World Environment Action](http://w-e-a.org/) , e a caminho de Boston para começar a trabalhar em um laboratório do [MIT](http://mit.edu/) . Nossa conversa já começou com uma mudança:
+Quando eu comecei a pesquisa [redelabs]({{ "/" \| relative_url }}) , comecei uma conversa/entrevista com ele. Cesar estava no Quênia desenvolvendo a [World Environment Action](http://w-e-a.org/) , e a caminho de Boston para começar a trabalhar em um laboratório do [MIT](http://mit.edu/) . Nossa conversa já começou com uma mudança:
 
 </div>
 
 > ::: {#_mcePaste}
-> **![Cesar Harada](http://redelabs-org.github.io/sites/redelabs.org/files/images/2010.jpg "Cesar Harada"){align="left" height="120" width="120"}** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
+> **![Cesar Harada]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/2010.jpg "Cesar Harada"){align="left" height="120" width="120"}** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
 > :::
 >
 > ::: {#_mcePaste}

@@ -15,5 +15,5 @@ Serão selecionados 12 inscritos, que desenvolverão o projeto com treinamento e
 
 Inscrições em: <http://goo.gl/isFQXe>
 
-[![](http://redelabs-org.github.io/sites/redelabs.org/files/images/lab_e.jpg){width="600px"}](http://goo.gl/isFQXe)
+[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/lab_e.jpg){width="600px"}](http://goo.gl/isFQXe)
 :::

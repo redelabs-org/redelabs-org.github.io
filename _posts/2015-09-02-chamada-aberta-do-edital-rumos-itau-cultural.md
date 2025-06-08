@@ -3,6 +3,7 @@ layout: post
 title: 'Chamada aberta do edital Rumos - Itaú Cultural'
 author: 'lulaflei'
 date: 2015-09-02
+original_source: blog/chamada-aberta-do-edital-rumos-itaú-cultural.html
 ---
 
 ::: {.field-item .even property="content:encoded"}

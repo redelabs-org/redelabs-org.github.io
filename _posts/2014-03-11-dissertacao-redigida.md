@@ -9,5 +9,5 @@ original_source: blog/dissertacao-redigida.html
 ---
 
 ::: {.field-item .even property="content:encoded"}
-![](http://redelabs-org.github.io/sites/redelabs.org/files/images/dissertacao.jpg){width="500px"}
+![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/dissertacao.jpg){width="500px"}
 :::

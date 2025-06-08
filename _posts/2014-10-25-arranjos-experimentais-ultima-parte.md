@@ -5,6 +5,7 @@ author: 'efeefe'
 date: 2014-10-25
 categories:
   - 'projetos'
+original_source: blog/arranjos-experimentais-última-parte.html
 ---
 
 ::: {.field-item .even property="content:encoded"}
@@ -21,5 +22,5 @@ Esses meses foram intensos e trabalhosos (as três partes do estudo somam mais d
 
 Espero que esse estudo possa oferecer contribuições não somente para as instituições que o encomendaram, mas também para outros grupos, organizações e pessoas interessadas em estimular uma produção interdisciplinar relevante e criativa tão necessária para os tempos atuais.
 
-O terceiro produto está disponível [aqui](http://redelabs-org.github.io/livro/minc-14/3/) .
+O terceiro produto está disponível [aqui]({{ "/livro/minc-14/3/" \| relative_url }}) .
 :::

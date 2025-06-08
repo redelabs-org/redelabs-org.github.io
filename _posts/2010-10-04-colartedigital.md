@@ -5,6 +5,7 @@ author: 'efeefe'
 date: 2010-10-04
 categories:
   - 'Sem categoria'
+original_source: blog/colartedigital.html
 ---
 
 ::: {.field-item .even property="content:encoded"}

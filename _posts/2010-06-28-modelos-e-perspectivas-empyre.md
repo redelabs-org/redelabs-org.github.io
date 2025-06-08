@@ -25,7 +25,7 @@ Marcus Bastos [começou](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-Au
 
 <div>
 
-E na sequência fez referência ao texto de Michael Century, [Pathways to Innovation](http://www.nextcentury.ca/PI/PImain.html#_Toc456019293) . Vale a pena ler o [arquivo completo da discussão](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/thread.html) , mas escolhi alguns trechos interessantes, abaixo. Não me preocupei em manter a coerência das discussões, só pincei alguns parágrafos que podem ser relevantes na conversa sobre [Redelabs](http://redelabs-org.github.io/) . A tradução é minha, e com pouca revisão - deve ter alguns equívocos ou falhas. **Marc Garrett**
+E na sequência fez referência ao texto de Michael Century, [Pathways to Innovation](http://www.nextcentury.ca/PI/PImain.html#_Toc456019293) . Vale a pena ler o [arquivo completo da discussão](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/thread.html) , mas escolhi alguns trechos interessantes, abaixo. Não me preocupei em manter a coerência das discussões, só pincei alguns parágrafos que podem ser relevantes na conversa sobre [Redelabs]({{ "/" \| relative_url }}) . A tradução é minha, e com pouca revisão - deve ter alguns equívocos ou falhas. **Marc Garrett**
 
 > a cultura é uma interface fluida, complexa e diversa, sempre em transformação e dinâmica. A chave é saber como nós, praticantes, podemos nos tornar agentes mais ativos dentro dessa interface múltipla. Se nós como agentes ativos estamos mais conectados, envolvidos nessa interface cultural para transformar contextos sociais através de nossas práticas criativas, então nós estamos transformando nossa cultura e sua interface.
 

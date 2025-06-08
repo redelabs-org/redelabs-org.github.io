@@ -5,6 +5,7 @@ author: 'efeefe'
 date: 2011-01-16
 categories:
   - 'projetos'
+original_source: blog/bolsa-de-cultura-digital-experimental-documentando.html
 ---
 
 ::: {.field-item .even property="content:encoded"}

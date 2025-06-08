@@ -5,10 +5,11 @@ author: 'efeefe'
 date: 2010-09-03
 categories:
   - 'Sem categoria'
+original_source: blog/bate-papo-com-gisela-domschke.html
 ---
 
 ::: {.field-item .even property="content:encoded"}
-Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre alguns assuntos relacionados aos [Redelabs](http://redelabs-org.github.io/) . Foi em 2008, quando Gisela havia retornado da Inglaterra (onde lecionara no Mestrado de Mídia Interativa da [Goldsmiths](http://gold.ac.uk/) ) e coordenava o [LabMIS](http://www.mis-sp.org.br/labmis) , que eu a conheci por intermédio de [Bronac Ferran](http://boundaryobject.org/) . Desde então temos nos encontrado em trilhas cruzadas, principalmente em diversos eventos em Sampa.
+Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre alguns assuntos relacionados aos [Redelabs]({{ "/" \| relative_url }}) . Foi em 2008, quando Gisela havia retornado da Inglaterra (onde lecionara no Mestrado de Mídia Interativa da [Goldsmiths](http://gold.ac.uk/) ) e coordenava o [LabMIS](http://www.mis-sp.org.br/labmis) , que eu a conheci por intermédio de [Bronac Ferran](http://boundaryobject.org/) . Desde então temos nos encontrado em trilhas cruzadas, principalmente em diversos eventos em Sampa.
 
 <div>
 
@@ -19,7 +20,7 @@ Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre a
 <div>
 
 ::: {.wp-caption .alignright style="width: 200px"}
-![Gisela Domschke](http://redelabs-org.github.io/sites/redelabs.org/files/images/36418-190-206.jpg "Gisela Domschke"){width="190" height="206"}
+![Gisela Domschke]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/36418-190-206.jpg "Gisela Domschke"){width="190" height="206"}
 
 Gisela Domschke
 :::
@@ -244,7 +245,7 @@ Quando cheguei em São Paulo e soube que o MIS planejava abrir um laboratório -
 
 <div>
 
-**Gisela Domschke:** Nosso [Ministério da Cultura](http://cultura.gov.br/) poderia conhecer um pouco mais sobre o que está acontecendo no país. Mesmo nós, não conhecemos tudo. Para o [redelabs](http://redelabs-org.github.io/) , esse conhecimento seria fundamental.
+**Gisela Domschke:** Nosso [Ministério da Cultura](http://cultura.gov.br/) poderia conhecer um pouco mais sobre o que está acontecendo no país. Mesmo nós, não conhecemos tudo. Para o [redelabs]({{ "/" \| relative_url }}) , esse conhecimento seria fundamental.
 
 </div>
 

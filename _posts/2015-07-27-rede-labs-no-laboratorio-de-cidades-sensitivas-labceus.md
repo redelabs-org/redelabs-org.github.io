@@ -9,7 +9,7 @@ original_source: blog/redelabs-no-laboratório-de-cidades-sensitivas-labceus.htm
 ---
 
 ::: {.field-item .even property="content:encoded"}
-![](http://redelabs-org.github.io/sites/redelabs.org/files/images/IMG_2790.JPG)
+![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2790.JPG)
 
 Nos primeiros dias de julho fiz uma viagem para conhecer algumas experiências de cultura digital experimental que estão acontecendo nas cidades de Recife, Fortaleza e Goiânia, e assim alimentar o mapeamento continuado do Rede//Labs no Brasil.
 
@@ -29,9 +29,9 @@ Além de participar do processo de avaliação, fiquei mais uns dias convivendo 
 
 Durante esses dias entrevistei os coordenadores Ricardo Ruiz e Ricardo Brazileiro, os mediadores Sofía Galvão e André Moraes e Alessandra Gama, quem realiza a ocupação **[Labinventário](http://culturadigital.br/labinventario/) - lab de processos em patrimônio cultural** com a comunidade do Quilombo Alto Alegre em Horizonte (Ceará). O material está em processo de edição e em breve será disponibilizado no site do Rede//Labs.
 
-![](http://redelabs-org.github.io/sites/redelabs.org/files/images/IMG_2765.jpg)
+![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2765.jpg)
 
-￼ ![](http://redelabs-org.github.io/sites/redelabs.org/files/images/IMG_2761.jpg)
+￼ ![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2761.jpg)
 
-![](http://redelabs-org.github.io/sites/redelabs.org/files/images/andrelabceusbaixa.JPG)
+![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/andrelabceusbaixa.JPG)
 :::
