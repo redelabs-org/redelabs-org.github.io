@@ -8,12 +8,11 @@ categories:
 original_source: blog/entrevista-alejo-duque.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra, conversei sobre laboratórios enredados, estratégias nômades e assuntos afins com Alejo Duque. Alejo é um artista colombiano que vive na Suíça e circula por diversos espaços de arte eletrônica, ativismo midiático e afins. Também é um colega de rede [Bricolabs](http://bricolabs.net/) . Vão abaixo alguns pedaços da conversa.
 
 <div>
 
-[![ITU]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg "ITU"){.alignright .size-medium .wp-image-105 width="300" height="189"}](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
+[![ITU]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg "ITU")](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
 
 </div>
 
@@ -35,7 +34,7 @@ Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra
 
 </div>
 
-::: {#_mcePaste}
+{#_mcePaste}
 Em Medelín particularmente, em se falando de ajudar culturalmente um grupo social para gerar mudança, estão ajudando aos garotos que estão trabalhando com renderizaçao 3d e mundos sinteticos, animação, etc. Encanta a eles o caso da Nova Zelândia - onde passaram a fazer filmes para Hollywood, têm super estúdios, rendering farms, etc. Em Medelín estão tratando de motivar os jovens para que criem empresas nesse modelo. Estão querendo que Medelín vire um hub para empresas como a Pixar. A mim parece um pouco louco.
 :::
 

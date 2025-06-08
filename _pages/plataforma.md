@@ -25,7 +25,7 @@ RedeLabs é uma plataforma para a investigação continuada a respeito de labora
 
 ::: {.views-field .views-field-field-imagem}
 ::: field-content
-[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/default_images/fundo%20escuro.JPG?itok=VYXDK156){typeof="foaf:Image" width="300" height="300"}]({{ "/2017/06/13/dos-laboratorios-experimentais-a-inovacao-cidada.html" | relative_url }})
+[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/default_images/fundo%20escuro.JPG?itok=VYXDK156)]({{ "/2017/06/13/dos-laboratorios-experimentais-a-inovacao-cidada.html" | relative_url }})
 :::
 :::
 
@@ -57,7 +57,7 @@ Como o site da Liinc está fora do ar, publiquei também cópias no\...
 
 ::: {.views-field .views-field-field-imagem}
 ::: field-content
-[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/default_images/fundo%20escuro.JPG?itok=VYXDK156){typeof="foaf:Image" width="300" height="300"}]({{ "/2016/05/31/video-do-painel-internacional-laboratorios-experimentais.html" | relative_url }})
+[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/default_images/fundo%20escuro.JPG?itok=VYXDK156)]({{ "/2016/05/31/video-do-painel-internacional-laboratorios-experimentais.html" | relative_url }})
 :::
 :::
 :::
@@ -77,7 +77,7 @@ Como o site da Liinc está fora do ar, publiquei também cópias no\...
 
 ::: {.views-field .views-field-field-imagem}
 ::: field-content
-[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/imagens-blog/mapamakerspaces.jpg?itok=p5p7HcR9){typeof="foaf:Image" width="300" height="300"}]({{ "/2016/03/02/espacos-de-inovacao-na-america-latina.html" | relative_url }})
+[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/styles/escala_e_cropa_home/public/imagens-blog/mapamakerspaces.jpg?itok=p5p7HcR9)]({{ "/2016/03/02/espacos-de-inovacao-na-america-latina.html" | relative_url }})
 :::
 :::
 :::

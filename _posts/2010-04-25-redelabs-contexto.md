@@ -8,7 +8,6 @@ categories:
 original_source: blog/redelabs-contexto.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 > *Remixando um texto já publicado antes, trazendo novos insights, etc\...*
 
 No contexto internacional das novas mídias e da arte eletrônica, os *medialabs* - laboratórios de mídia - têm um papel essencial - desde o emblemático [medialab](http://www.media.mit.edu/) do norte-americano MIT, passando por iniciativas diversas em países europeus como o [Medialab Prado](http://medialab-prado.es/) de Madrid e a [Tesla](http://www.tesla-berlin.de/) de Berlim, até projetos de intercâmbio com países em desenvolvimento como a plataforma [Waag/Sarai](http://waag.sarai.net/) entre Holanda e Índia.
@@ -30,4 +29,3 @@ Algumas das iniciativas brasileiras mais relevantes no cenário da mídia eletr�
 A reflexão da plataforma RedeLabs vai no sentido de propor um passo adiante, em que se mesclam os referenciais de laboratórios de mídia e a cultura digital brasileira. Ao longo dos próximos meses, vamos propor estratégias para o estímulo de redes que articulem espaços de produção nesse sentido.
 
 Colaborações serão sempre bem-vindas.
-:::

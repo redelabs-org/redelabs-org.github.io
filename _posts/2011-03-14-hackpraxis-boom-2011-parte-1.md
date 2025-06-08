@@ -8,7 +8,6 @@ categories:
 original_source: blog/hackpraxis-boom-2011-–-parte-1.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Hacklabs, Bricolabs, Redelabs, Medialabs, PósLabs em um Movimento dos Sem Satélite.
 
 Arte, ciência, indústria, manufatura, reciclagem, ecologias e consequências.
@@ -92,4 +91,3 @@ Um discurso sobre um método interdependente para uma computação revelada em r
 \[\*\~\] Gnoise: [http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf](http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf){target="_blank"} /
 
 </div>
-:::

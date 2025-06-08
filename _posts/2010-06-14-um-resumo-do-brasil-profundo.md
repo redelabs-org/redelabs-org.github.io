@@ -8,7 +8,6 @@ categories:
 original_source: blog/um-resumo-do-brasil-profundo.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 > Escrevi há dois anos um artigo que seria publicado como [caderno submidiático #7](http://pub.descentro.org/caderno_submidiatico_7_em_busca_do_brasil_profundo) do [des).(centro](http://pub.descentro.org/) e posteriormente no livro [Apropriações Tecnológicas](http://pub.descentro.org/wiki/apropriações_tecnológicas_emergência_de_textos_idéias_e_imagens_do_submidialogia3) . O que segue abaixo é uma tentativa de contar a mesma história sob a perspectiva dos laboratórios de mídia.
 
 <div>
@@ -46,4 +45,3 @@ Naquela primeira edição da Submidialogia, foram dados os primeiros passos para
 Ao longo de todos esses anos, esse grupo bastante heterogêneo e disperso, assumindo diversas identidades dinâmicas e formando subgrupos que se mesclam e reformam o tempo todo, também realizaram outras ações e eventos - o festival Findetático, o encontro Digitofagia, as próprias conferências Submidialogia e muitos encontros e ações entremeadas no meio do cenário cultural e político. Agregou ainda muitas pessoas interessadas em diversos aspectos da apropriação de tecnologias. Realizou experimentação em diversas áreas, inclusive em formatos de organização e trabalho coletivo - até na própria implementação da cultura digital nos Pontos de Cultura, que incorporou princípios de autonomia, conhecimento livre, aprendizado em rede e outros, promovendo um diálogo profundo do formato hacklab com a realidade institucional no governo. E continua se refazendo a todo instante.
 
 </div>
-:::

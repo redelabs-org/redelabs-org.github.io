@@ -8,7 +8,6 @@ categories:
 original_source: blog/metas-do-pnc.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 [Patricia Canetti](http://www.canalcontemporaneo.art.br/_v3/site/perfil_individuo.php?idioma=br&perfil_usuario=34010) , representante da arte digital no Conselho Nacional de Políticas Culturais, contou em dezembro na [lista redelabs](http://groups.google.com/group/redelabs) sobre algumas metas que têm a ver com a nossa reflexão sobre laboratórios que foram efetivamente incluídas no Plano Nacional de Cultura:
 
 > \"Agora a versão das metas finais que regerão as políticas públicas de cultura no próximos 10 anos: [(link)](http://pnc.culturadigital.br/wp-content/uploads/2011/12/VERSAO_FINAL_METAS_PNC_1512011.pdf){target="_blank"}\
@@ -33,4 +32,3 @@ original_source: blog/metas-do-pnc.html
 > \
 > Meta 46) 100% dos setores representados no Conselho Nacional de Política Cultural (CNPC) com colegiados instalados e planos setoriais elaborados e implementados\
 > - É fundamental que **todos os setores representados no CNPC tenham uma unidade administrativa no Ministério da Cultura (MinC), responsável pela elaboração e execução das políticas setoriais** , e que essas assumam a coordenação dos respectivos colegiados.\"
-:::

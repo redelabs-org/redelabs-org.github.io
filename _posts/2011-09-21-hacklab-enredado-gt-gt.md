@@ -8,7 +8,6 @@ categories:
 original_source: blog/hacklab-enredado.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 > Meu relato resumido sobre os dias no Pará, em agosto. Artigo também [publicado no site Hipermedula](http://hipermedula.org/2011/09/hacklab-enredado/) \*. Estou costurando uma versão mais detalhada para o blog [Ubalab](http://ubalab.org/) , mas ainda demora um pouco.
 
 \
@@ -20,7 +19,7 @@ por Giseli Vasconcelos (3), em um formato dinâmico e produtivo. Foram duas\
 estava por sua vez subdividida em dois momentos, desenvolvidos em diferentes\
 localidades: primeiro em Belém, e depois em Santarém.
 
-[![](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado.jpg "hacklab_enredado"){.aligncenter .size-full .wp-image-5607 width="536" height="332"}](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado.jpg "hacklab_enredado"){rel="lightbox[5604]"}\
+[![](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado.jpg "hacklab_enredado")](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado.jpg "hacklab_enredado"){rel="lightbox[5604]"}\
 O Networked Hacklab pôs em contato coletivos locais do Pará com um grupo de\
 "estrangeiros". Na primeira etapa, esse grupo de fora era composto por **Tati Wells** (4), o\
 espanhol **Pablo de Soto** (5), **Paulo Tavares** (6) e eu. O objetivo na quela fase era trazer elementos mais conceituais, falando sobre ferramentas e metodologias de mapeamento.\
@@ -47,7 +46,7 @@ e umprédio do exército brasileiro. Carlinhos Vas comandava o somaberto a canja
 interferências. O pessoal comandou uma dinâmica para nos apresentarmos uns aos\
 outros, empares.
 
-[![](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado2.jpg "hacklab_enredado2"){.aligncenter .size-full .wp-image-5608 width="536" height="332"}](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado2.jpg "hacklab_enredado2"){rel="lightbox[5604]"}
+[![](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado2.jpg "hacklab_enredado2")](http://hipermedula.org/wp-content/uploads/2011/09/hacklab_enredado2.jpg "hacklab_enredado2"){rel="lightbox[5604]"}
 
 No dia seguinte, migramos para o Parque dos Igarapés (17), onde ficaríamos imersos\
 (às vezes em sentido literal, dentro do igarapé) por três dias. O Parque fica relativamente\
@@ -145,4 +144,3 @@ Veja também os relatos de **Tati Wells** (25) e **Paulo Tavares** (26), minhas 
 *28 <http://desvio.cc/sites/desvio.cc/files/hacknet/>*
 
 *\* Este artigo foi escrito com o apoio do* [*Centro Cultural da Espanha em São Paulo*](http://www.ccebrasil.org.br/) *.*
-:::

@@ -8,7 +8,6 @@ categories:
 original_source: blog/painel-laboratorios-experimentais-anotacoes.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 ﻿Enquanto moderava o [painel sobre laboratórios experimentais](http://culturadigital.br/redelabs/2010/12/painel-internacional-laboratorios-experimentais/) no [Fórum da Cultura Digital Brasileira](http://culturadigital.br/forum2010) e tuitava, eu também fazia algumas anotações a mão no caderninho. Vai aí um relance, mais como um mapa de palavras-chave do que relato extensivo.
 
 **[Tapio Makela](http://tapio.translocal.net/)**
@@ -110,4 +109,3 @@ original_source: blog/painel-laboratorios-experimentais-anotacoes.html
 -   mini-oficinas *espontâneas* , propostas pelos usuários
 -   cañas! parte *festiva* !
 -   *replicabilidade*
-:::

@@ -9,7 +9,6 @@ categories:
 original_source: blog/mostra-de-labs-deaf-2012.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Estou ajudando a divulgar a chamada abaixo e convidar laboratórios experimentais e artistas do Brasil a mandarem propostas para a Mostra de Labs no próximo [Festival Holandês de Arte Eletrônica](http://deaf.nl/) , que acontece em abril de 2012 em Rotterdam, na Holanda. A chamada publicada essa semana, organizada pelo [V2_Lab](http://www.v2.nl/) e pelos [Baltan Laboratories](http://www.baltanlaboratories.org/) , busca propostas de projetos a serem exibidos durante a mostra.
 
 Através da plataforma [Rede//Labs]({{ "/" \| relative_url }}) , eu me disponho a auxiliar proponentes que queiram ajuda para debater, formatar ou traduzir suas propostas. Se for o caso, me [envie um email](http://efeefe.no-ip.org/contact) .
@@ -62,4 +61,3 @@ Através da plataforma [Rede//Labs]({{ "/" \| relative_url }}) , eu me disponho 
 > Juntamente com a mostra e em conexão com a pesquisa \"Futuro do Lab\" dos Baltan Laboratories, organizaremos um seminário para apresentar e discutir as diferentes abordagens sobre produção, com os projetos específicos dos labs participantes como estudos de caso.
 >
 > Vamos também organizar momentos ao longo da duração da mostra nos quais artistas visitantes terão a oportunidade de apresentar / expor novos projetos para os labs envolvidos com a mostra (similarmente a mercados profissionais em festivais de cinema).
-:::

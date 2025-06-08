@@ -9,7 +9,6 @@ categories:
 original_source: blog/convocatoria-para-colaboradores-interactivos13-nuvem.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Repassando a chamada da [Nuvem](http://nuvem.tk/) \...
 
 **Convocatória para colaboradores**
@@ -156,4 +155,3 @@ Acesse o resumo dos projetos selecionados e o perfil de colaboradorxs na nossa [
 *dúvidas? [nuvemhr@gmail.com](mailto:nuvemhr@gmail.com){target="_blank"}*
 
 </div>
-:::

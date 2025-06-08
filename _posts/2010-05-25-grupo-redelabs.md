@@ -8,6 +8,4 @@ categories:
 original_source: blog/grupo-redelabs.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Criei um [grupo para debater o projeto redelabs](http://culturadigital.br/groups/redelabs/ "RedeLabs na Cultura Digital") na Cultura Digital. E essa semana publico mais coisas por aqui.
-:::

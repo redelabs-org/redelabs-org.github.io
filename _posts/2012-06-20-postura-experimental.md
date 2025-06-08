@@ -8,7 +8,6 @@ categories:
 original_source: blog/postura-experimental.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Insisto há algum tempo que, em se tratando de labs experimentais, hoje em dia mais importante do que a infraestrutura é uma certa postura experimental (e sei que mais gente [também pensa assim](http://blog.redelabs-org.github.io/blog/sobre-labs-e-futuros) ). Por um lado, é óbvio que essa afirmação sugere a crescente irrelevância de tantos projetos de laboratórios que dedicam (muito) mais atenção a computadores, câmeras e afins do que a criar dinâmicas para reunir pessoas e promover entre elas o intercâmbio e a construção coletiva. Por outro lado, reafirma a inventividade presente em arranjos temporários e auto-organizados, frequentemente informais e baseados na troca generosa e abundante. Mas como fazer para escapar às amarras do fazer cotidiano e da inserção em esquemas predefinidos, nos quais as pessoas já sabem como se portar? Como evitar que o momento do encontro seja somente um espaço de performance de rotinas individualmente ensaiadas e permita a troca real de influências mútuas?
 
 Uma das atividades mais concorridas do [Labx que organizei no Rio](http://blog.redelabs-org.github.io/blog/labx-festival-culturadigitalbr) em dezembro passado foi a mesa sobre Labs Nômades, que reuniu iniciativas vindas de diversos contextos institucionais e localidades. Grande parte delas atua de maneira diversa do que geralmente se espera de \"laboratórios de mídia\": ocupam o espaço público, firmam parcerias com organizações locais, fazem reuniões em cafés ou botecos, desenvolvem estruturas móveis, organizam-se de maneira improvável e depois desaparecem. Em comum têm a pulsão da criação, frequentemente superando - ainda que temporariamente - a precariedade, adaptando-se a quaisquer condições que se apresentem. Geralmente, produzem muito mais do que projetos institucionais com recursos muito mais vultosos. Parte de sua força vem da inventividade de formatos de agrupamento.
@@ -32,4 +31,3 @@ No que toca à reflexão sobre Labs, o Encontrão de MetaReciclagem me deu ainda
 ------------------------------------------------------------------------
 
 *Este artigo foi escrito com o apoio do Centro Cultural da Espanha em São Paulo.*
-:::

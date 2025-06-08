@@ -8,7 +8,6 @@ categories:
 original_source: blog/laboratorios-e-redes-desde-uma-perspectiva-das-comunidades-–-comunidades-desde-uma-perspectiva-.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 [LabSurLab](http://labsurlab.co/) pode ser compreendido como "metáfora e prática" de "formação e trabalho" em rede. As identidades envolvidas -- representando ativistas, estados, empresas -- empregaram uma dinâmica capaz de desenhar um discurso um tanto esquecido pelas políticas públicas, em especial propagado pelas instituições de ensino: a interdisciplinaridade.
 
 Nos seminários, mesas redondas, mesas de trabalho e oficinas. O que se via eram autênticos espaços discursivos/práticos: meio ambiente, política, artes, física, elétrica e química, tudo concebido como ciência. Desde a perspectiva dos laboratórios, o importante é dominar estes "códigos".
@@ -63,4 +62,3 @@ Os laboratórios aqui em questão são espaços públicos, onde, mesmo dentro da
 Labsurlab de certa forma coloca que qualquer encontro é um lab e tendo os meios pode-se potencializar certas práticas sociais: mais que esvaziar o poder, uma intenção de hackear o poder, tentando garantir espaços de livre produção e expressão do conhecimento.
 
 Hacia los labs!!!
-:::

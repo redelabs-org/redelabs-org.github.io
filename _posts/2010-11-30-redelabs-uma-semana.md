@@ -8,7 +8,6 @@ categories:
 original_source: blog/redelabs-uma-semana.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Quando faltava uma semana para o encontro RedeLabs, mandei a mensagem abaixo para todo mundo que tinha confirmado a participação. Ela dava um retorno sobre algumas conversas paralelas, falava sobre o status dos planos e incluía uma compilação de posts do blog [RedeLabs](http://culturadigital.br/redelabs) .
 
 > <div>
@@ -34,4 +33,3 @@ Quando faltava uma semana para o encontro RedeLabs, mandei a mensagem abaixo par
 > As conversas na lista de discussão estão engatinhando, naquele ritmo de um grupo de pessoas que ainda não se conhece muito bem. Quem ainda não apareceu, cole lá: <http://groups.google.com/group/redelabs>
 >
 > </div>
-:::

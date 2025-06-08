@@ -8,7 +8,6 @@ categories:
 original_source: blog/conversa-com-cesar-harada.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 No começo do ano, eu estava dando uma vasculhada no site do projeto [Opensailing](https://sites.google.com/a/opensailing.net/www/) , que concorria à premiação do festival [Future Everything](http://futureeverything.org/) . Já tinha ouvido falar dele, e pareceu que podia ter alguma relação com o cenário aqui em [Ubatuba](http://ubalab.org/) . Resolvi entrar em contato com [Cesar Harada](http://cesarharada.com/) , idealizador do projeto. Cesar é um francês de ascendência japonesa que desenvolveu seu mestrado no [RCA](http://cesarharada.com/) , em Londres, e depois recebeu uma fellowship do [TED](http://ted.com/) (entre [outras conquistas](http://cesarharada.com/timeline/) ). Ele respondeu-me entusiástico, dizendo que me conhecia - havia assistido à [apresentação que fiz no RCA com Ruiz e CV](http://pub.descentro.org/wiki/brazilian_medialogies_system_learnings%20no%20RCA) , há uns dois anos. Falou que admirava as posições e táticas da [MetaReciclagem](http://rede.metareciclagem.org/) . Na época, ele estava em Londres desenvolvendo protótipos para o Opensailing.
 
 <div>
@@ -18,7 +17,7 @@ Quando eu comecei a pesquisa [redelabs]({{ "/" \| relative_url }}) , comecei uma
 </div>
 
 > ::: {#_mcePaste}
-> **![Cesar Harada]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/2010.jpg "Cesar Harada"){align="left" height="120" width="120"}** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
+> **![Cesar Harada]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/2010.jpg "Cesar Harada")** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
 > :::
 >
 > ::: {#_mcePaste}
@@ -87,7 +86,7 @@ Quando eu comecei a pesquisa [redelabs]({{ "/" \| relative_url }}) , comecei uma
 > Um exemplo interessante que eu encontrei é o [Kitchen Budapest](http://www.kitchenbudapest.hu/en) . Eu só ouvi coisas boas sobre eles: Cada pesquisador tem um pagamento fixo. Cada pessoa passa 80% do tempo em projetos pessoais, 15% em colaboração, 5% para o laboratório em geral. Muito produtivo, um monte de diversão, espaço aberto, bom relacionamento com a indústria, políticas open source, tudo de bom!
 > :::
 
-::: {#_mcePaste}
+{#_mcePaste}
 Há duas semanas, Cesar me mandou outro e-mail:
 :::
 

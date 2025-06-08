@@ -8,7 +8,6 @@ categories:
 original_source: blog/laboratorios-experimentais-interface-rede-rua.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 > Tenho [percorrido de bicicleta](http://ubalab.org/blog/em-duas-rodas) as ruas de Ubatuba tentando articular a visão de *[cidade como sistema operacional](http://ubalab.org/blog/metareciclando-cidades-digitais)* com a reflexão sobre o papel que deve exercer um Laboratório Experimental nos moldes do que propus no artigo sobre [Inovação e Tecnologias Livres (parte 2)](http://desvio.cc/blog/inovacao-e-tecnologias-livres-parte-2-hojes-e-depois) . Qualquer cidade pode ser entendida como justaposição de fluxos de informação que se entrecortam, afetam-se uns aos outros e no processo criam realidades, oportunidades e também limitações. Essa visão quase óbvia sugere incontáveis formas de intervir na realidade local. Mas no momento estou procurando um foco específico para concentrar esforços. Uma imagem, um formato para inspirar e orientar. Minhas áreas de interesse continuam sendo a apropriação crítica de tecnologias, a experimentação e descoberta, o aprendizado em rede, a construção coletiva e circulação de conhecimento livre, a [MetaReciclagem](http://rede.metareciclagem.org/) . É por aí que caminha esse post.
 
 ## Inovação de ponta vs. inovação nas pontas
@@ -40,4 +39,3 @@ Algumas dezenas ou mesmo centenas de projetos em todo o Brasil têm potencial pa
 Como eu sugeri [há alguns meses](http://culturadigital.br/redelabs/2010/06/redelabs-caminhos-brasileiros-para-a-cultura-digital-experimental/) , esses núcleos não precisam se definir somente como \"laboratórios de mídia\". Não devem limitar-se à produção de \"conteúdo\". Tratam, na verdade, de *criatividade aplicada* , busca de *soluções* em múltiplas áreas de conhecimento. Um Laboratório Experimental pode, claro, produzir vídeos, programas de rádio, cobertura online de eventos, material gráfico, websites. Mas também desenvolve pesquisa em captação e armazenamento de energia alternativa, monitoramento ambiental com sensores, redes de aprendizado distribuído, instalações imersivas, projetos de robótica educacional. Pode trabalhar com mediação de conflitos, democracia experimental, política cultural, financiamento solidário de pequenos projetos. Elabora planos críticos para cidades digitais (ou [propõe questões](http://ubalab.org/blog/metareciclando-cidades-digitais) , pelo menos).
 
 Não existem limites para Laboratórios que se proponham a atuar como interfaces entre o mundo cotidiano e a multiplicidade das redes.
-:::

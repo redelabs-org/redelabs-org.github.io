@@ -8,7 +8,6 @@ categories:
 original_source: blog/campus-party-labs-e-centros-de-fomento-cultura-digital.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 No fim de janeiro estive na Campus Party para participar de um debate sobre [Labs e centros de fomento à cultura digital](http://cpbrasil.ism.org.br/?page_id=311) a convite do [Instituto Sergio Motta](http://ism.org.br/) , que estava desenvolvendo a área de Design, Foto e Vídeo. Junto comigo no palco estavam [Dani Bousso](http://mis-sp.org.br/) e [Guilherme Kujawski](http://twitter.com/kuja) . Dani contou um pouco sobre as realizações e obstáculos enfrentados pelo [LabMis](http://www.mis-sp.org.br/labmis) , e também sobre os programas de residências e intercâmbio internacional. Kuja falou um pouco sobre o [Itaulab](http://www.itaucultural.org.br/index.cfm?cd_pagina=1989) e depois passou algum tempo analisando sobre como a [hipótese comunista](http://www.newleftreview.org/A2705) pode se articular com possibilidades abertas pelas culturas digitais (sobre isso, eu também recomendo a leitura do [Manifesto Telecomunista](http://networkcultures.org/wpmu/weblog/2010/10/21/the-telekommunist-from-dmytri-kleiner-is-out-now/) do Dmyitri Kleiner).
 
 Eu achei interessante falar logo ali, porque foi justamente na Campus Party do ano passado que o que era o interesse difuso em [Rede//Labs]({{ "/" \| relative_url }}) virou um plano específico, articulado com a Cultura Digital do Minc. Eu dancei mais ou menos em torno de um roteirinho que rabisquei de última hora:
@@ -65,4 +64,3 @@ Eu achei interessante falar logo ali, porque foi justamente na Campus Party do a
 -   *Novas fronteiras - prototipagem, teleconferência, contextos locais*
 
 Na sequência do debate, o pessoal da [Gambiologia](http://www.gambiologia.net/blog/) estava tocando um [workshop](http://www.gambiologia.net/blog/tag/campus-party/) bonito de ver.
-:::

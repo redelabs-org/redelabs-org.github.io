@@ -8,7 +8,6 @@ categories:
 original_source: blog/bate-papo-com-gisela-domschke.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre alguns assuntos relacionados aos [Redelabs]({{ "/" \| relative_url }}) . Foi em 2008, quando Gisela havia retornado da Inglaterra (onde lecionara no Mestrado de Mídia Interativa da [Goldsmiths](http://gold.ac.uk/) ) e coordenava o [LabMIS](http://www.mis-sp.org.br/labmis) , que eu a conheci por intermédio de [Bronac Ferran](http://boundaryobject.org/) . Desde então temos nos encontrado em trilhas cruzadas, principalmente em diversos eventos em Sampa.
 
 <div>
@@ -19,8 +18,8 @@ Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre a
 
 <div>
 
-::: {.wp-caption .alignright style="width: 200px"}
-![Gisela Domschke]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/36418-190-206.jpg "Gisela Domschke"){width="190" height="206"}
+{.wp-caption .alignright style="width: 200px"}
+![Gisela Domschke]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/36418-190-206.jpg "Gisela Domschke")
 
 Gisela Domschke
 :::

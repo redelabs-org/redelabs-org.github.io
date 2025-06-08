@@ -8,6 +8,4 @@ categories:
 original_source: blog/netart-latino-database.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Brian Mackern, do site uruguaio [netart](http://netart.org.uy/) , tem uma boa compilação de net-artistas disponível em seu site: [http://netart.org.uy/latino/](http://netart.org.uy/latino/#acerca)
-:::

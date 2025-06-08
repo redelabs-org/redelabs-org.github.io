@@ -8,10 +8,9 @@ categories:
 original_source: blog/ciclo-hack.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Programação do [Ciclo Hack](http://giulianobici.blogspot.com/2011/07/ciclo-hack.html) , que acontece no próximo fim de semana em Sampa no [SESC Pompeia](http://www.sesc-sp.com/sesc/programa_new/busca.cfm?conjunto_id=8772) e na [Serralheria](http://www.escapeserralheria.org/about/) .
 
-![](http://4.bp.blogspot.com/-H7GTtLF_6Wc/ThCABOw5fKI/AAAAAAAAAuE/Q6bnDAMsIQ0/s320/Imagem1.png){align="left"} [ [ O ]{.Apple-style-span} **[ CICLO HACK ]{.Apple-style-span}** [ reunirá um time de artistas-hackers vindos de diferentes cantos do Brasil que irão ocupar as Oficinas de Criatividade e o bar Serralheria promovendo um ciclo de conversas, laboratórios abertos, discutindo e promovendo a cultura dos hacklabs, medialabs e laboratórios de experimentação em tecnologia e arte.\
+![](http://4.bp.blogspot.com/-H7GTtLF_6Wc/ThCABOw5fKI/AAAAAAAAAuE/Q6bnDAMsIQ0/s320/Imagem1.png) [ [ O ]{.Apple-style-span} **[ CICLO HACK ]{.Apple-style-span}** [ reunirá um time de artistas-hackers vindos de diferentes cantos do Brasil que irão ocupar as Oficinas de Criatividade e o bar Serralheria promovendo um ciclo de conversas, laboratórios abertos, discutindo e promovendo a cultura dos hacklabs, medialabs e laboratórios de experimentação em tecnologia e arte.\
 \
 mesa redonda + workshops + conversas + bancada aberta + festa experimental + instalações + música + \...\
 \
@@ -117,4 +116,3 @@ Retirada de senhas a partir das 13h do dia 10/07. 50 vagas. Grátis\
 ]{.Apple-style-span} **[ Dias 09 e 10. Sábado e domingo, das 14h às 20h. Livre. Grátis ]{.Apple-style-span}**
 
 </div>
-:::

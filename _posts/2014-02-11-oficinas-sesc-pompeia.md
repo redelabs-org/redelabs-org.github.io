@@ -8,12 +8,11 @@ categories:
 original_source: blog/oficinas-sesc-pompeia.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Ajudando a circular\...
 
 <div>
 
-::: userContentWrapper
+userContentWrapper
 <div>
 
 ::: {#id_52f9fcc8c19c91928412918 .text_exposed_root .text_exposed}
