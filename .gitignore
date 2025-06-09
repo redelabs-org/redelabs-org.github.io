@@ -1,0 +1,35 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Ruby / Gems
+Gemfile.lock
+
+# OS-specific
+.DS_Store
+*~
+*.swp
+
+# Custom Ignores for old content to be migrated later
+_source_blog/
+_source_book/
+_source_livro/
+_source_pages/
+assets/original_files/
+
+# Ignore original Drupal directories (will be deleted)
+blog/
+book/
+livro/
+sites/
+modules/
+misc/
+cultura-digital-experimental-parte-1-twitter/
+
+# Ignore old top-level HTML files (will be deleted)
+index.html
+plataforma-redelabs.html
+sobre.html
