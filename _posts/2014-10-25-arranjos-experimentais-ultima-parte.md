@@ -21,4 +21,4 @@ Esses meses foram intensos e trabalhosos (as três partes do estudo somam mais d
 
 Espero que esse estudo possa oferecer contribuições não somente para as instituições que o encomendaram, mas também para outros grupos, organizações e pessoas interessadas em estimular uma produção interdisciplinar relevante e criativa tão necessária para os tempos atuais.
 
-O terceiro produto está disponível [aqui]({{ "/livro/minc-14/3/" \| relative_url }}) .
+O terceiro produto está disponível [aqui]({{ "/livro/minc-14/3/" | relative_url }}) .
