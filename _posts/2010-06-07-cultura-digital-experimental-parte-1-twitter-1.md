@@ -8,7 +8,7 @@ categories:
 original_source: blog/cultura-digital-experimental-parte-1-twitter.html
 ---
 
-No sábado, enquanto estava na fila do check-in para o voo que me traria a Madrid, pensava nos eixos de reflexão e articulação em torno dos quais o projeto [redelabs]({{ "/" \| relative_url }}) vai se desenvolver. Perguntei na rede o que as pessoas achavam do termo \"cultura digital experimental\", que eu já usei em alguns posts por aí. A conversa se espalhou pelo twitter, pelo google buzz e também na [lista da MetaReciclagem](http://lista.metareciclagem.org/) . Saíram coisas bem interessantes ali no meio, que quero trazer aqui pro blog. Mas como o volume foi grande, vou fazer por partes - por ferramentas, na verdade. Começando, hoje, pelo twitter. Ali, a conversa ficou um pouco limitada pelos 140 caracteres e pela impossibilidade de responder a posts específicos. Tentei organizar, abaixo:
+No sábado, enquanto estava na fila do check-in para o voo que me traria a Madrid, pensava nos eixos de reflexão e articulação em torno dos quais o projeto [redelabs]({{ "/" | relative_url }}) vai se desenvolver. Perguntei na rede o que as pessoas achavam do termo \"cultura digital experimental\", que eu já usei em alguns posts por aí. A conversa se espalhou pelo twitter, pelo google buzz e também na [lista da MetaReciclagem](http://lista.metareciclagem.org/) . Saíram coisas bem interessantes ali no meio, que quero trazer aqui pro blog. Mas como o volume foi grande, vou fazer por partes - por ferramentas, na verdade. Começando, hoje, pelo twitter. Ali, a conversa ficou um pouco limitada pelos 140 caracteres e pela impossibilidade de responder a posts específicos. Tentei organizar, abaixo:
 
 **efeefe:** como soa pra vocês falar em \"cultura digital experimental\"?
 
