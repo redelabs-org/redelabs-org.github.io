@@ -16,6 +16,5 @@ gem "webrick", "~> 1.7" # For `jekyll serve` on Ruby 3.0+
 group :jekyll_plugins do
   # Add other Jekyll plugins here if needed later.
   # For example:
-  # gem "jekyll-sitemap"
 end
-gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-sitemap", "~> 1.4.0"

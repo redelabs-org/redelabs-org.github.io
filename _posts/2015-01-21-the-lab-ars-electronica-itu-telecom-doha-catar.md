@@ -8,7 +8,6 @@ categories:
 original_source: blog/lab-ars-electronica-itu-telecom-doha-catar.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 É interessante ler o [relato do Ars Electronica](http://www.aec.at/feature/en/das-war-die-itu-telecom-world-2014/) sobre a participação deles no ITU Telecom World que aconteceu em Doha um mês depois da minha residência por lá. Aparece ali aquele tom triunfante, de quem se considera na crista da onda. Já tem algum tempo que tenho achado curiosas as comunicações do Ars Electronica - embarcando nessa onda da inovação com um pé no mercado, da cena maker como salvação do mundo, de adotar um vocabulário pesadamente comercial. E aí Doha parece um cenário perfeito, com aquele monte de dinheiro esperando coisas novas e coloridas nas quais investir (mesmo que produza mais lixo e plástico no mundo, afinal no deserto ninguém liga pra essas coisas). E no meio aproveitando para puxar o saco de umas autoridades locais,  - afinal precisamos garantir os próximos projetos, certo?
 
 ![](http://www.aec.at/feature/files/2014/12/16022781106_dff3edb066_k.jpg)
@@ -30,4 +29,3 @@ Infelizmente, apesar das boas intenções que acredito que Altman professe de ma
 ![](https://farm9.staticflickr.com/8651/15693859237_d6b204213f_z_d.jpg)
 
 ![](http://static.ow.ly/photos/normal/7sLFh.jpg)
-:::

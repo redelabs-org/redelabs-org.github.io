@@ -8,7 +8,6 @@ categories:
 original_source: blog/sobre-labs.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Enquanto não publico a versão final de minha dissertação defendida semana retrasada (tá saindo, tá saindo\...), vai aqui uma lista de material mais antigo sobre labs que acabei de enviar a pedido para uma amiga. Bom lembrar o volume disso\...
 
 > <div>
@@ -59,4 +58,3 @@ Enquanto não publico a versão final de minha dissertação defendida semana re
 >
 > E ainda quatro vídeos feitos à época sob encomenda do Centro de Cultura Espanhola\
 > <http://blog.redelabs-org.github.io/tags/cce>
-:::

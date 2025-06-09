@@ -8,7 +8,6 @@ categories:
 original_source: blog/o-futuro-da-cultura-lab.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Post do jornalista [Bernardo Gutierrez](http://https//www.facebook.com/bernardo.gutierrez.18) publicado originalmente no blog [Código Abierto](http://codigo-abierto.cc/) :
 
 "PORQUE SER HACKERS ESTÁ DE MODA. Ahora todos son hackers. Términos para el mercado: Growth Hacker, Business Hacker, E-commerce Hacker, Social Media Hacker, Code Hacker. Ya se va poniendo triste el panorama". Así pataleaba el ecuatoriano Juan Carlos León en su [muro de Facebook](https://www.facebook.com/juancarlos.leon.315?fref=ts){target="_blank"} , que ha estado años trabajando en El Diferencial Hub Media de Quito. Juan Carlos tocó un punto importante: el mercado, el capitalismo cognitivo y los gobiernos están vampirizando lo hacker. Sin entenderlo. Sin sinceridad. Sin ética.
@@ -28,4 +27,3 @@ Ante oportunismos y apropiaciones, nada como reivindicar el espíritu hacker y l
 -   La *cultura lab* puede generarse tanto desde los márgenes o las periferias como dentro de las instituciones culturales (universidades, escuelas, museos, bibliotecas, etc.) **.**
 -   En la *cultura lab* hay pioneros y [referentes indiscutibles](http://medialab-prado.es/mmedia/16736/view){target="_blank"} , pero también nuevas manifestaciones que han nacido y evolucionan a partir de su propia experiencia y una praxis con aportes inéditos.
 -   La *cultura lab* es una actitud frente a la concepción, creación, producción y distribución del conocimiento en el siglo XXI. Es un espíritu que «sopla donde quiere» y puede surgir en los espacios, grupos e instituciones más insospechados.
-:::

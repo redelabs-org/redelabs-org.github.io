@@ -8,7 +8,6 @@ categories:
 original_source: blog/entrevista-com-rachel-rosalen-e-rafael-marchetti-–-idealizadores-e-coordenadores-do-ruralscapes.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 ![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/_MG_3936baixa.jpg)
 
 Em junho de 2015 fiz uma visita ao [rural.scapes - laboratório em residência](http://www.ruralscapes.net/) que acontece na Fazenda Santa Teresa, em São José do Barreiro (SP). Entre os dias 19 e 25 entrei no processo de imersão e acompanhei o cotidiano do lab, observei e registrei conversas com os artistas selecionados, os gestores e a crítica de arte. Na volta fiz [um post]({{ "/2015/07/13/imersao-no-rural-scapes.html" | relative_url }}) comentando algumas questões que me chamaram a atenção nesta experiência. Compartilho agora um resumo da nossa conversa.\
@@ -86,4 +85,3 @@ Rafael: Também pensamos criar ações sociais onde a fazenda fique aberta e sej
 *Rachel: Existem editais, tanto que em 2013 ganhamos o Programa Rede Nacional Funarte de Artes Visuais 10\' edição e em 2014 dois prêmios PROAC em São Paulo. Mas fomos obrigados a renunciar a um dos PROAC pois não era possível obter os dois ao mesmo tempo. **Um programa de residência precisa de continuidade.** Nas políticas públicas a dança, teatro, cinema e música tem predominância. O que se tem para Artes Visuais é só um edital por ano. Se houvessem mais possibilidades, dobraríamos o número de projetos e residentes. Isso cria um gap de tempo, um ano de diferença. Quando terminamos o projeto no ano passado, íamos a São José do Barreiro e as crianças vinham correndo para perguntar "quando vai ser o próximo? Semana que vem?" Semana que vem não dá, mas poderia ser um a cada semestre, ou de três em três messes, mas para isso as políticas teriam que privilegiar menos a falsa democratização de pensar que um proponente poderia ganhar um projeto por ano, porque isso não sustenta ninguém, e sim pensar na qualidade dos projetos.*
 
 *Rafael: A Funarte tem a política de não premiar o mesmo candidato durante dois anos seguidos, mas se o prêmio for para criar redes isso é uma contradição\... **uma rede não se segura sem financiamento.***
-:::

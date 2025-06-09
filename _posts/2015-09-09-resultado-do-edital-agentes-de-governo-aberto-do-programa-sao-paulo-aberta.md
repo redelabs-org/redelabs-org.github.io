@@ -6,7 +6,6 @@ date: 2015-09-09
 original_source: blog/resultado-do-edital-“agentes-de-governo-aberto”-do-programa-são-paulo-aberta.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 <div>
 
 <div>
@@ -64,4 +63,3 @@ Para mais informações: <saopauloaberta@prefeitura.sp.gov.br>
 **[Ordem de Classificação Comunicação em Rede](http://saopauloaberta.prefeitura.sp.gov.br/wp-content/uploads/2015/09/Ordem-de-Classificação-Tecnologia-Aberta.docx)**
 
 </div>
-:::

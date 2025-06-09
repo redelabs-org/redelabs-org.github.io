@@ -8,7 +8,6 @@ categories:
 original_source: blog/redelabs-no-laboratório-de-cidades-sensitivas-labceus.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 ![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2790.JPG)
 
 Nos primeiros dias de julho fiz uma viagem para conhecer algumas experiências de cultura digital experimental que estão acontecendo nas cidades de Recife, Fortaleza e Goiânia, e assim alimentar o mapeamento continuado do Rede//Labs no Brasil.
@@ -34,4 +33,3 @@ Durante esses dias entrevistei os coordenadores Ricardo Ruiz e Ricardo Brazileir
 ￼ ![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2761.jpg)
 
 ![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/andrelabceusbaixa.JPG)
-:::

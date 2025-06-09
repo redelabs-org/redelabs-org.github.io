@@ -8,7 +8,6 @@ categories:
 original_source: blog/fablabs-makerspaces-gambiarra-e-conserto.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Escrevi mais uma coluna [Raitéqui para a edição 99 da Revista A Rede](http://arede.inf.br/edicoes-anteriores/2243-edicao-n-99-julho-agosto-2014/7033-raitequi-fablabs-makerspaces-gambiarra-e-conserto) . O texto é uma remixagem de um trecho da minha dissertação de mestrado, retrabalhado e algo ampliado. Como a versão publicada na revista está com alguns errinhos de revisão, publico aqui minha versão final.
 
 ![Ilustração A Redde](http://arede.inf.br/images/fotos-arede-99/arede-99-raitequi-fablabs-01.jpg)
@@ -47,4 +46,3 @@ De certa forma, a diferença entre um Fablab típico e o ReFab Space é parecida
 \-\--
 
 Felipe Fonseca é coordenador do núcleo [Ubalab](http://ubalab.org/) . Vive em Ubatuba/SP, onde organiza o [Tropixel](http://tropixel.ubalab.org/) e leciona na Escola Técnica Municipal Tancredo de Almeida Neves.
-:::

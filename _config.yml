@@ -70,3 +70,6 @@ defaults:
       path: "_source_pages/*"
     values:
       layout: "page"
+
+
+permalink: /blog/:year/:month/:day/:title.html

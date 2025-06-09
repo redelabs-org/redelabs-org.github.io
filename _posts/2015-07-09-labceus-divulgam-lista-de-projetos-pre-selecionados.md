@@ -8,7 +8,6 @@ categories:
 original_source: blog/labceus-divulgam-lista-de-projetos-pré-selecionados.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 O projeto [LabCEUs](http://culturadigital.br/labceus/sobre/) , parceria entre a UFPE e o Ministério da Cultura, tem por objetivo promover ocupações temporárias nos Laboratórios Multimídia dos [CEUs](http://ceus.cultura.gov.br/) (Centros de Artes e Esportes Unificados). Recentemente, o projeto realizou a segunda fase de seleção de projetos, que serão desenvolvidos nos próximos meses nos CEUs participantes em todas as regiões do Brasil. A [lista dos projetos pré-selecionados](http://culturadigital.br/labceus/2015/07/08/minc-e-ufpe-divulgam-propostas-pre-selecionadas-para-o-labceus/) foi divulgada nesta semana:
 
 [****Ocupações de 2 meses****]{.underline}
@@ -74,4 +73,3 @@ Proponente: Noé Rodrigues da Silva
 **5.** **Sertãozinho (SP)**\
 Criando Jogos Livres em (com) Comunidade(s)!\
 Proponente: Katharine Rafaela Diniz Nunes
-:::

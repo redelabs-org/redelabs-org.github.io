@@ -8,7 +8,6 @@ categories:
 original_source: blog/projetos-selecionados-para-o-labic.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 O Laboratório Iberoamericano de Inovação Cidadã, que acontece na segunda quinzena de novembro no Rio de Janeiro, publicou a lista de projetos selecionados e a [convocatória de colaboradores](http://www.ciudadania20.org/pt-pt/colaboradoreslabicbr/) que vão participar dos projetos abaixo:
 
 <div>
@@ -88,4 +87,3 @@ O Laboratório Iberoamericano de Inovação Cidadã, que acontece na segunda qui
 Veja a descrição completa dos projetos e mais informações sobre a seleção de colaboradores no [website](http://www.ciudadania20.org/pt-pt/colaboradoreslabicbr/) .
 
 </div>
-:::

@@ -8,7 +8,6 @@ categories:
 original_source: blog/arranjos-experimentais-última-parte.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Publicamos a terceira e última parte do estudo sobre arranjos experimantais criativos em cultura digital desenvolvido para a coordenação-geral de cultura digital do Ministério da Cultura. Nesta entrega, eu e Luciana Fleischman trabalhamos para delinear estratégias para a elaboração de políticas públicas voltadas a estimular a experimentação em cultura digital no Brasil. Em resumo, falamos sobre quatro eixos de construção:
 
 1.  Estabelecer uma ampla rede de laboratórios experimentais;
@@ -23,4 +22,3 @@ Esses meses foram intensos e trabalhosos (as três partes do estudo somam mais d
 Espero que esse estudo possa oferecer contribuições não somente para as instituições que o encomendaram, mas também para outros grupos, organizações e pessoas interessadas em estimular uma produção interdisciplinar relevante e criativa tão necessária para os tempos atuais.
 
 O terceiro produto está disponível [aqui]({{ "/livro/minc-14/3/" \| relative_url }}) .
-:::

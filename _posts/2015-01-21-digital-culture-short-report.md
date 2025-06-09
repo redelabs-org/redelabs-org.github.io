@@ -10,7 +10,6 @@ categories:
 original_source: blog/digital-culture-short-report.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 > Em novembro de 2014, fiz um relatório (em inglês) sob encomenda do conselho de artes da Suíca - [Pro Helvetia](http://prohelvetia.ch/) . A ideia era oferecer um panorama atual sobre cultura digital no Brasil. Mas antes de listar e descrever algumas iniciativas, grupos, instituições e pessoas, eu fiz uma introdução para mostrar o terreno em que se desenvolvem. Segue abaixo esta introdução, republicada aqui com autorização da Pro Helvetia.
 
 ## 1. Scenario
@@ -98,4 +97,3 @@ At this very moment, the Ministry is also jumpstarting the **Redelabs** project 
 [5](#sdfootnote5anc){#sdfootnote5sym} Published in full (portuguese version only) here: [http://redelabs-org.github.io]({{ "/" \| relative_url }}) .
 
 </div>
-:::

@@ -6,7 +6,6 @@ date: 2015-06-08
 original_source: blog/segunda-chamada-para-ocupações-do-labceus.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 Repassando a convocatória do [LabCEUS](http://culturadigital.br/labceus/)
 
 # LabCEUs premiará 15 projetos de inovação cidadã
@@ -31,4 +30,3 @@ As inscrições devem ser feitas até o próximo dia 19 de junho. Confira o [reg
 
 \
 **Fatal error** : Class \'CToolsCssCache\' not found in **/var/www/multisite_drupal7/drupal-7.22/includes/cache.inc** on line **31**
-:::

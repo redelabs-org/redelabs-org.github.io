@@ -9,7 +9,6 @@ categories:
 original_source: blog/nascentes-de-dados-da-fumaça.html
 ---
 
-::: {.field-item .even property="content:encoded"}
 <div>
 
 \
@@ -84,4 +83,3 @@ Um dos objetivos fundamentais do programa é fomentar o desenvolvimento, a difus
 ### Condições
 
 Ao se inscrever, pressupõe­-se que a/o participante leu e concorda com todos os termos desta convocatória.
-:::

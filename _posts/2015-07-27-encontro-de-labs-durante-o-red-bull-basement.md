@@ -8,8 +8,7 @@ categories:
 original_source: blog/encontro-de-labs-durante-o-red-bull-basement.html
 ---
 
-::: {.field-item .even property="content:encoded"}
-![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/Captura de tela de 2015-07-27 16_22_57.png){align="right"} Fui convidado, junto com Raquel Rennó e Jarbas Jácome, a coordenar um pequeno encontro de labs durante o [Red Bull Basement](http://www.redbullbasement.com.br/) , nos dias 22 e 23 de agosto em São Paulo. Segue abaixo a divulgação do encontro. Todo mundo convidado!
+![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/Captura de tela de 2015-07-27 16_22_57.png) Fui convidado, junto com Raquel Rennó e Jarbas Jácome, a coordenar um pequeno encontro de labs durante o [Red Bull Basement](http://www.redbullbasement.com.br/) , nos dias 22 e 23 de agosto em São Paulo. Segue abaixo a divulgação do encontro. Todo mundo convidado!
 
 > <div>
 >
@@ -173,4 +172,3 @@ original_source: blog/encontro-de-labs-durante-o-red-bull-basement.html
 
 \
 **Fatal error** : Class \'CToolsCssCache\' not found in **/var/www/multisite_drupal7/drupal-7.22/includes/cache.inc** on line **31**
-:::
