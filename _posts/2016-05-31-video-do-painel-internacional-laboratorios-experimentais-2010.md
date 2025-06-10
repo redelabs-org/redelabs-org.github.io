@@ -15,6 +15,6 @@ O material está disponível no [archive.org](https://archive.org/details/2010-C
 
 **Veja também:**
 
--   [versão em áudio do painel]({{ "/blog/painel-laboratorios-experimentais-internet-archive" \| relative_url }})
+-   [versão em áudio do painel]({{ "/blog/painel-laboratorios-experimentais-internet-archive" | relative_url }})
 -   [minhas anotações]({{ "/2010/12/02/painel-laboratorios-experimentais-anotacoes.html" | relative_url }})
--   material preparatório para o [Encontro de Labs em 2010]({{ "/livro/primeiro-encontro-redelabs-2010" \| relative_url }}) )
+-   material preparatório para o [Encontro de Labs em 2010]({{ "/livro/primeiro-encontro-redelabs-2010" | relative_url }}) )
