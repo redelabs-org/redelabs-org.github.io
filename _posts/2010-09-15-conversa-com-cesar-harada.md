@@ -12,7 +12,7 @@ No começo do ano, eu estava dando uma vasculhada no site do projeto [Opensailin
 
 <div>
 
-Quando eu comecei a pesquisa [redelabs]({{ "/" \| relative_url }}) , comecei uma conversa/entrevista com ele. Cesar estava no Quênia desenvolvendo a [World Environment Action](http://w-e-a.org/) , e a caminho de Boston para começar a trabalhar em um laboratório do [MIT](http://mit.edu/) . Nossa conversa já começou com uma mudança:
+Quando eu comecei a pesquisa [redelabs]({{ "/" | relative_url }}) , comecei uma conversa/entrevista com ele. Cesar estava no Quênia desenvolvendo a [World Environment Action](http://w-e-a.org/) , e a caminho de Boston para começar a trabalhar em um laboratório do [MIT](http://mit.edu/) . Nossa conversa já começou com uma mudança:
 
 </div>
 

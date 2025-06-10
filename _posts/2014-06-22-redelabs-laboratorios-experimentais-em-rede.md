@@ -8,7 +8,7 @@ categories:
 original_source: blog/redelabs-laboratórios-experimentais-em-rede.html
 ---
 
-Enquanto aguardo a homologação da minha dissertação de mestrado no [Labjor](http://labjor.unicamp.br/) , decidi publicar por aqui o resumo do texto final em português e inglês. Minha dissertação está disponível na íntegra [aqui]({{ "/livro/redelabs-laboratórios-experimentais-em-rede-2014" \| relative_url }}) .
+Enquanto aguardo a homologação da minha dissertação de mestrado no [Labjor](http://labjor.unicamp.br/) , decidi publicar por aqui o resumo do texto final em português e inglês. Minha dissertação está disponível na íntegra [aqui]({{ "/livro/redelabs-laboratórios-experimentais-em-rede-2014" | relative_url }}) .
 
 # Resumo
 

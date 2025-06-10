@@ -72,4 +72,4 @@ defaults:
       layout: "page"
 
 
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /blog/:year/:month/:day/:title/
