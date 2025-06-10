@@ -95,27 +95,27 @@ Como o site da Liinc está fora do ar, publiquei também cópias no\...
 
 ::: content
 ::: {#book-block-menu-114 .book-block-menu}
--   [Arranjos Experimentais Criativos em Cultura Digital (III): Estratégias (2014)]({{ "/livro/minc-14/3" \| relative_url }})
+-   [Arranjos Experimentais Criativos em Cultura Digital (III): Estratégias (2014)]({{ "/livro/minc-14/3" | relative_url }})
 :::
 
 ::: {#book-block-menu-107 .book-block-menu}
--   [Arranjos Experimentais Criativos em Cultura Digital (II): Contexto e Recomendações (2014)]({{ "/livro/minc-14/2" \| relative_url }})
+-   [Arranjos Experimentais Criativos em Cultura Digital (II): Contexto e Recomendações (2014)]({{ "/livro/minc-14/2" | relative_url }})
 :::
 
 ::: {#book-block-menu-101 .book-block-menu}
--   [Arranjos Experimentais Criativos em Cultura Digital (I): Mapeamento (2014)]({{ "/livro/minc-14/1" \| relative_url }})
+-   [Arranjos Experimentais Criativos em Cultura Digital (I): Mapeamento (2014)]({{ "/livro/minc-14/1" | relative_url }})
 :::
 
 ::: {#book-block-menu-94 .book-block-menu}
--   [REDELABS: Laboratórios Experimentais em Rede (2014)]({{ "/livro/redelabs-laboratórios-experimentais-em-rede-2014" \| relative_url }})
+-   [REDELABS: Laboratórios Experimentais em Rede (2014)]({{ "/livro/redelabs-laboratórios-experimentais-em-rede-2014" | relative_url }})
 :::
 
 ::: {#book-block-menu-137 .book-block-menu}
--   [Primeiro Encontro Rede//Labs - 2010]({{ "/livro/primeiro-encontro-redelabs-2010" \| relative_url }})
+-   [Primeiro Encontro Rede//Labs - 2010]({{ "/livro/primeiro-encontro-redelabs-2010" | relative_url }})
 :::
 
 ::: {#book-block-menu-93 .book-block-menu}
--   [Preparação Redelabs (2010)]({{ "/livro/preparação-redelabs-2010" \| relative_url }})
+-   [Preparação Redelabs (2010)]({{ "/livro/preparação-redelabs-2010" | relative_url }})
 :::
 :::
 :::
