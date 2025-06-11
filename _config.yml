@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rede//Labs
-email: your-email@example.com # Update later
+# email:  # Update later
 description: >- # this means to ignore newlines until "baseurl:"
-  Rede//Labs - Converged from Drupal static dump.
+  Rede//Labs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: redelabs
-github_username:  redelabs # Or the correct GitHub org/user
+# twitter_username: redelabs
+github_username:  redelabs-org # Or the correct GitHub org/user
 
 # Build settings
 theme: minima
@@ -70,6 +70,5 @@ defaults:
       path: "_source_pages/*"
     values:
       layout: "page"
-
 
 permalink: /blog/:year/:month/:day/:title/

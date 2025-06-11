@@ -1,0 +1,4 @@
+
+
+
+Compilação de textos e posts distribuídos em 2010 como preparação para o encontro Rede//Labs realizado durante a segunda edição do Fórum da Cultura Digital Brasileira, na Cinemateca, em São Paulo. O arquivo PDF está disponível para acesso e download no <a href="http://pt.scribd.com/doc/99673211/Compilacao-RedeLabs-2010">Scribd</a> e <a href="https://archive.org/details/redelabs">Archive.org</a>.</p>
