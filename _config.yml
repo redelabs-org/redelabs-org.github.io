@@ -31,6 +31,9 @@ plugins:
 
 markdown: kramdown
 
+include:
+  - _pages
+
 # Exclude from processing.
 exclude:
   - Gemfile
@@ -41,18 +44,6 @@ exclude:
   - vendor/ruby/
   - README.md # Assuming the top-level README is for the project, not site content.
   - LICENSE
-
-# Collections for holding original content that needs to be migrated.
-# These will not be output/rendered directly by Jekyll in their raw state.
-collections:
-  source_blog:
-    output: false
-  source_book:
-    output: false
-  source_livro:
-    output: false
-  source_pages:
-    output: false
 
 # paginate: 10
 # paginate_path: "/blog/page:num/"
