@@ -12,7 +12,7 @@ Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra
 
 <div>
 
-[![ITU]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg "ITU")](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
+[![ITU]({{ "/assets/images/ff_me_ITU_genf_postcard2010_hc-300x189.jpg" | relative_url }} "ITU")](http://culturadigital.br/redelabs/files/2010/08/ff_me_ITU_genf_postcard2010_hc.jpg)
 
 </div>
 

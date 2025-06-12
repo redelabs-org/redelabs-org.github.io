@@ -15,3 +15,6 @@ Mais uma vez um certo pânico da página em branco (essa metáfora faz algum sen
 -   [Medialabs - pra quê mesmo? (2)](http://desvio.github.io/blog/medialabs-pra-quê-mesmo-2)
 
 Ao longo dos próximos meses, essas questões iniciais - relevância, formatos, enredamento, etc. - serão desdobradas em inúmeras outras. Vou conversar com pessoas que estão relacionadas com algumas iniciativas interessantes no Brasil e no mundo, propor uma conversa aberta (com detalhes a definir) e com a ajuda de amigxs que tenho por aí elaborar uma proposta abrangente de atuação.
+
+This is a test: ![]({{ "/assets/images/2010.jpg" | relative_url }})
+And this is a broken link: ![](../images/non_existent_image.jpg)

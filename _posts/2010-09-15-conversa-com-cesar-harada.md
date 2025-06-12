@@ -17,7 +17,7 @@ Quando eu comecei a pesquisa [redelabs]({{ "/" | relative_url }}) , comecei uma 
 </div>
 
 > ::: {#_mcePaste}
-> **![Cesar Harada]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/2010.jpg "Cesar Harada")** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
+> **![Cesar Harada]({{ "/assets/images/2010.jpg" | relative_url }} "Cesar Harada")** Eu acabei de me demitir, ontem (07/07), de uma posição na Escola de Arquitetura [SENSEable City Lab](http://senseable.mit.edu/) (MIT), mas me ofereceram outra vaga no departamento de artes do MIT [Media Lab](http://media.mit.edu/) a partir de outubro até janeiro de 2011. Mas eu não sei mais quão relevante isso é. Eu quero focar em oceano e pesquisa, não na mídia que cerca isso.
 > :::
 >
 > ::: {#_mcePaste}

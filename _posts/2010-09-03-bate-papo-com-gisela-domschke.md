@@ -19,7 +19,7 @@ Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre a
 <div>
 
 {.wp-caption .alignright style="width: 200px"}
-![Gisela Domschke]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/36418-190-206.jpg "Gisela Domschke")
+![Gisela Domschke]({{ "/assets/images/36418-190-206.jpg" | relative_url }} "Gisela Domschke")
 
 Gisela Domschke
 :::
@@ -340,5 +340,3 @@ Quando cheguei em São Paulo e soube que o MIS planejava abrir um laboratório -
 
 > *\** [ *Artista e curadora, mestre em Design de Comunicação pelo Central Saint Martins College of Arts, em Londres. Coordenou o curso de mestrado em Mídias Interativas na Goldsmiths University, em* ]{style="font-family: Helvetica;line-height: normal;font-size: 12px;border-collapse: collapse"} [ [ *Londres. Participou de diversas exposições e festivais de mídia, entre eles o World Wide Video Festival (Amsterdam), Pandemonium Festival (Londres), Lovebytes (Sheffield), Videobrasil (São Paulo), Bienal Mercosul (Porto Alegre), 24a Bienal de São Paulo (São Paulo), Whitney Biennial (Nova York), FILE (São Paulo),  ICA New Media Talents Awards (Londres). Suas obras foram publicadas em periódicos como Creative Review, Blueprint, The Guardian e Arco Magazine. Coordenou a criação do LABMIS, laboratório de mídias do Museu de Imagem e do Som, onde foi responsável pela programação de eventos, workshops e programas de residência de artistas.* ]{style="font-size: 9pt;font-family: Helvetica" lang="EN-GB"} [ *Foi o* ]{style="font-size: 9pt;font-family: Helvetica" lang="FR"} [ *rientadora do curso de Digital & Virtual Design* ]{style="font-size: 9pt;font-family: Helvetica" lang="EN-GB"} [ *do Istituto Europeo de Design, São Paulo, e é professora da Escola São Paulo e da FAAP. Desenvolve projetos de curadoria e produção executiva em colaboração com instituições culturais internacionais como British Council, AHRC, Mondriaan Foundation, Virtuel Platform e Ludic Group.* ]{style="font-size: 9pt;font-family: Helvetica" lang="FR"} ]{style="font-family: arial, sans-serif;line-height: normal;border-collapse: collapse"}
 :::
-
-[end of _posts/2010-09-03-bate-papo-com-gisela-domschke.md]

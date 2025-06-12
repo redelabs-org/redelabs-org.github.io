@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+include:
+  - _assets
+
 # Exclude from processing.
 exclude:
   - Gemfile
