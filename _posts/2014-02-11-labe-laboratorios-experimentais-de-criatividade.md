@@ -14,4 +14,4 @@ Serão selecionados 12 inscritos, que desenvolverão o projeto com treinamento e
 
 Inscrições em: <http://goo.gl/isFQXe>
 
-[![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/lab_e.jpg)](http://goo.gl/isFQXe)
+![LabE](/assets/images/lab_e.jpg)

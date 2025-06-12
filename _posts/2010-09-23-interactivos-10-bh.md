@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interactivos? &#39;10 BH'
+title: 'Interactivos? 10 BH'
 author: 'efeefe'
 date: 2010-09-23
 categories:

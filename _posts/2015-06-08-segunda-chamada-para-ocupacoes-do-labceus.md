@@ -25,8 +25,3 @@ As propostas serão analisadas por uma Comissão de Avaliação e Seleção, for
 As inscrições devem ser feitas até o próximo dia 19 de junho. Confira o [regulamento e seus anexos](http://culturadigital.br/labceus/files/2015/05/Chamada-Pública-2ª-fase-LabCEUS.pdf) .
 
 **LabCEUS** -- Em dezembro de 2014 o Ministério da Cultura (MinC), em parceria com a Universidade Federal de Pernambuco (UFPE) lançou a primeira chamada pública do programa Laboratório de Cidades Sensitivas. Das 260 propostas recebidas de todo o Brasil, foram selecionadas quinze ocupações, que estão sendo realizadas nos CEUS das 10 cidades envolvidas no programa LabCEUs. Os projetos trabalham de forma transversal com linguagens, expressões, dimensões culturais e artísticas. Há combinações de instrumentos musicais com metareciclagem, jogos digitais com tecnologia GPS, rádio livre e intercâmbios, além de projetos de cartografia, audiovisual e fabricação digital.
-
-.
-
-\
-**Fatal error** : Class \'CToolsCssCache\' not found in **/var/www/multisite_drupal7/drupal-7.22/includes/cache.inc** on line **31**

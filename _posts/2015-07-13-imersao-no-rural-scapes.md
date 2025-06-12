@@ -6,7 +6,6 @@ date: 2015-07-13
 original_source: blog/imersão-no-ruralscapes.html
 ---
 
-![]({{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/original_files{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images{{ site.baseurl }}/assets/images/sites/redelabs.org/files/images/IMG_2734(1).JPG)
 
 No mês de junho [Rede//Labs]({{ "/" | relative_url }}) fez uma visita no laboratório em residência [rural.scapes](http://www.ruralscapes.net/) , localizado na Fazenda Santa Teresa, em São José do Barreiro (SP). Entre os dias 19 e 25 de junho [Luciana Fleischman](http://culturadigital.br/erratica/) acompanhou o cotidiano da residência, realizou observações e registrou conversas com os [artistas selecionados](http://www.ruralscapes.net/2015/05/08/selection-labres2015/?lang=en) , os gestores, a crítica de arte convidada, e a responsável pela documentação audovisual, com quem também colaborou na realização de algumas entrevistas.
 

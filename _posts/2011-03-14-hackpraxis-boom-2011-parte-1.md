@@ -32,11 +32,9 @@ A computação e a eletrônica por "tentativa e erro" são certamente a mais uti
 
 1.b) Quando entramos na exploração de protocolos ou formatos de arquivos, entramos na problemática dos padrões de interação do usuário e suas maneiras de reaproveitar esta informação. No caso da música, por exemplo, ele estará previsto como alguém que quer gravar sons, reproduzir, sintetizar (criar sons a partir de cálculos da física dos auto-falantes), ter alguma representação visual destas composições, preparar uma interação em tempo real com estas interfaces. Como mapear um movimento gestual de um acorde num instrumento similar a algo acústico porém podendo depois atribuir qualquer som a este gesto? Ou como converter um gesto feito em frente a uma câmera em um evento sonoro relacionado? Como sincronizar motores, impressoras, dispositivos mecatrônicos com ritmos? Esta conversa entre diferentes padrões de entrada e saída dos dados demanda uma escolha por protocolos e esta escolha também está condicionada ao nível de liberdade que você quer ter de acesso e redistribuição de códigos. Começamos aqui a pensar software e hardware livre\... Mas também a influência de interesses de engenharia reversa nesse processo de disponibilidade dos drivers, ou a fabricação de drivers livres já como política industrial de hardware\... Quem faz seu driver de webcam, joystick, placa de som, placa de vídeo? Como isso funciona? Como essa programação poderia ser "subvertida" pra criar novas linguagens se você pudesse ler este código? Como você poderia criar hardwares livres a partir destas necessidades? E se você pagar por algo fechado -- quais suas restrições?
 
-<div>
-
 Surge disso uma fundamental pergunta:
 
-\- Existe ou existirá mesmo um Hardware Livre?
+- Existe ou existirá mesmo um Hardware Livre?
 
 A ideia e importância do Software Livre para uma cultura mais colaborativa e menos alienada dos meios de produção e comunicação já está bastante em pauta no Brasil e várias outras fronteiras que temos interagido. Tomarei como óbvia a necessidade de sua inclusão num ciclo saudável de construção de uma práxis de código computacional como cultura. Quero aprofundar um pouco mais a possibilidade conceitual e aplicada de Hardware Livre.
 
@@ -80,14 +78,10 @@ Uma convergência possível além de fronteiras, linguagens, preconceitos e ind�
 
 Um discurso sobre um método interdependente para uma computação revelada em ritmo, poesia, ruído e um tempo de sístoles e diástoles compartilhadas. Estéticas possíveis. Éticas aplicadas. Políticas do Afeto. Calendários. Encontros. Hacking. Praxis. Boom\...!
 
-!\...continua\...
+...continua...
 
-\[notas\~\]
+notas
 
-\[\*\~\] Cotidiano Sensitivo: [http://cotidianosensitivo.info/](http://cotidianosensitivo.info/){target="_blank"}
-
-\[\*\~\] Panophonos: [http://pt.scribd.com/doc/32338852/GIULIANO-OBICI-Condicao-da-escuta-Midias-e-Territorios-Sonoros](http://pt.scribd.com/doc/32338852/GIULIANO-OBICI-Condicao-da-escuta-Midias-e-Territorios-Sonoros){target="_blank"}
-
-\[\*\~\] Gnoise: [http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf](http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf){target="_blank"} /
-
-</div>
+- Cotidiano Sensitivo: [http://cotidianosensitivo.info/](http://cotidianosensitivo.info/){target="_blank"}
+- Panophonos: [http://pt.scribd.com/doc/32338852/GIULIANO-OBICI-Condicao-da-escuta-Midias-e-Territorios-Sonoros](http://pt.scribd.com/doc/32338852/GIULIANO-OBICI-Condicao-da-escuta-Midias-e-Territorios-Sonoros){target="_blank"}
+- Gnoise: [http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf](http://finetanks.com/records/ribeiro/GNOISE_0.11.pdf){target="_blank"} /

@@ -10,7 +10,7 @@ original_source: blog/fablabs-makerspaces-gambiarra-e-conserto.html
 
 Escrevi mais uma coluna [Raitéqui para a edição 99 da Revista A Rede](http://arede.inf.br/edicoes-anteriores/2243-edicao-n-99-julho-agosto-2014/7033-raitequi-fablabs-makerspaces-gambiarra-e-conserto) . O texto é uma remixagem de um trecho da minha dissertação de mestrado, retrabalhado e algo ampliado. Como a versão publicada na revista está com alguns errinhos de revisão, publico aqui minha versão final.
 
-![Ilustração A Redde](http://arede.inf.br/images/fotos-arede-99/arede-99-raitequi-fablabs-01.jpg)
+![Ilustração A Rede](http://arede.inf.br/images/fotos-arede-99/arede-99-raitequi-fablabs-01.jpg)
 
 ## Fablabs, makerspaces, gambiarra e conserto
 

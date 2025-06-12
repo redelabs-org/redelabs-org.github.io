@@ -10,7 +10,7 @@ original_source: blog/metas-do-pnc.html
 
 [Patricia Canetti](http://www.canalcontemporaneo.art.br/_v3/site/perfil_individuo.php?idioma=br&perfil_usuario=34010) , representante da arte digital no Conselho Nacional de Políticas Culturais, contou em dezembro na [lista redelabs](http://groups.google.com/group/redelabs) sobre algumas metas que têm a ver com a nossa reflexão sobre laboratórios que foram efetivamente incluídas no Plano Nacional de Cultura:
 
-> \"Agora a versão das metas finais que regerão as políticas públicas de cultura no próximos 10 anos: [(link)](http://pnc.culturadigital.br/wp-content/uploads/2011/12/VERSAO_FINAL_METAS_PNC_1512011.pdf){target="_blank"}\
+> \"Agora a versão das metas finais que regerão as políticas públicas de cultura no próximos 10 anos: [(link)](http://pnc.culturadigital.br/wp-content/uploads/2011/12/VERSAO_FINAL_METAS_PNC_1512011.pdf)
 > \
 > Seguem abaixo os destaques no que tange a arte digital. Por favor, leiam a íntegra destas metas no documento já citado.\
 > \

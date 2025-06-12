@@ -10,21 +10,14 @@ original_source: blog/modelos-e-perspectivas-empyre.html
 
 Passei uma tarde da semana passada relendo o debate sobre *Modelos e perspectivas para Centros de Mídia e Organizações de Arte em Rede* moderado por Marcus Bastos em [agosto de 2008](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/) na [lista Empyre](http://subtle.net/empyre) . Na época eu estava cadastrado na lista, mas a vida estava uma correria e não consegui participar muito.
 
-<div>
-
 Marcus Bastos [começou](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/000836.html) o debate com uma citação de [Ned Rossiter](http://nedrossiter.org/) :
 
-</div>
-
-> <div>
->
 > existe uma necessidade urgente de novas formas institucionais que reflitam processos \'relacionais\' para fazer frente a sistemas existentes de governança e estruturas representacionais ultrapassadas.
 >
-> </div>
 
-<div>
+E na sequência fez referência ao texto de Michael Century, [Pathways to Innovation](http://www.nextcentury.ca/PI/PImain.html#_Toc456019293) . Vale a pena ler o [arquivo completo da discussão](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/thread.html) , mas escolhi alguns trechos interessantes, abaixo. Não me preocupei em manter a coerência das discussões, só pincei alguns parágrafos que podem ser relevantes na conversa sobre [Redelabs]({{ "/" | relative_url }}) . A tradução é minha, e com pouca revisão - deve ter alguns equívocos ou falhas.
 
-E na sequência fez referência ao texto de Michael Century, [Pathways to Innovation](http://www.nextcentury.ca/PI/PImain.html#_Toc456019293) . Vale a pena ler o [arquivo completo da discussão](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/thread.html) , mas escolhi alguns trechos interessantes, abaixo. Não me preocupei em manter a coerência das discussões, só pincei alguns parágrafos que podem ser relevantes na conversa sobre [Redelabs]({{ "/" | relative_url }}) . A tradução é minha, e com pouca revisão - deve ter alguns equívocos ou falhas. **Marc Garrett**
+**Marc Garrett**
 
 > a cultura é uma interface fluida, complexa e diversa, sempre em transformação e dinâmica. A chave é saber como nós, praticantes, podemos nos tornar agentes mais ativos dentro dessa interface múltipla. Se nós como agentes ativos estamos mais conectados, envolvidos nessa interface cultural para transformar contextos sociais através de nossas práticas criativas, então nós estamos transformando nossa cultura e sua interface.
 
@@ -84,4 +77,3 @@ E na sequência fez referência ao texto de Michael Century, [Pathways to Innova
 
 > Em termos de conexões institucionais, acadêmicas e públicas, o [ZKM](http://zkm.de/) é engraçado - ou era, uma década atrás quando trabalhei lá. Ele tem/tinha conexões privilegiadas com a Universidade de Karlsruhe, uma das maiores e mais ricas da Alemanha, o que oferece um conjunto de conhecimento técnico para alguns projetos baseados em computação do ZKM, mas para artistas-estrelas do ZKM com seus próprios - e frequentemente anônimos - programadores pessoais, esse tipo de conexão não existia. Eu tive a sorte de trabalhar com um cientista da computação chamado Bernd Lintermann matriculado na Universidade que dessa forma foi parar no mundo da arte e interessantemente hoje dirige o Institute for Visual Media. A repercussão pública local era limitada às pessoas que atravessavam a rua de uma cidade muito conservadora; se não fossem atropeladas por um bonde ou desencorajadas pelo arame farpado em volta do prédio da Suprema Corte em frente ao ZKM (uma antiga fábrica de munição), eram sobreviventes curiosos. Os maiores públicos vinham de mais longe, direto do aeroporto de Frankfurt ou do outro lado da fronteira em Strasbourg para eventos prestigiados. Sustentabilidade? Eu acho o termo em si sem sentido já que se trata de um enquadramento temporal - o que na França chamamos de conjuntura. Não é necessariamente um critério para mim a menos que estivermos falando de energias criativas. Sustentabilidade estrutural, organizacional ou institucional pode ser desejável mas pode ser altamente prejudicial. Sustentar a habilidade/agilidade de adaptação, de renegociar as relações, é crucial. O workshop do Senselab no Culture Lab no ano passado fez todo o sentido. Mas eu não tenho ideia se ele poderia acontecer novamente. Às vezes, para sustentar a energia criativa, a pessoa precisa abandonar a infraestrutura que era vital anteriormente. [Panta rei](http://en.wikipedia.org/wiki/Panta_Rei) . Desculpas para truísmos. Parte da busca de orientação.
 
-</div>

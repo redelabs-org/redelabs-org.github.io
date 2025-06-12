@@ -16,9 +16,9 @@ original_source: blog/digital-culture-short-report.html
 
 In order to understand the state of new media and digital culture in Brazil, two cultural episodes of last century must be acknowledged: brazilian artistic **Modernism** and the **Tropicália** movement. Both are deeply related to what Brazil has to offer internationally in terms of contemporary arts, pop culture and their social implications. To some extent they form the cultural basis upon which new developments are often laid.
 
-In 1922, the modernists organized the *Week of Modern Art* in São Paulo. Until 33 years before that, Brazil was a self-proclaimed \"empire\" whose economy relied heavily on large *plantations* and *slave workforce* . As slavery was abolished, the republic established and legal immigrant labor became available, the country demanded new ways to understand and experience its **mixed cultural background** . During the Week of Modern Art visual artists, poets, writers and intellectuals helped to grant legitimacy to mixed social identities, as well as asserting the importance of São Paulo as a cultural centre [^1^](#sdfootnote1sym){#sdfootnote1anc} . The modernists proposed that brazilian culture was a mixed one, in which tradition and novelty were articulated in terms of dialogue and assimilation. It is in that sense that poet Oswald de Andrade posed in the **C** **annibalist** **M** **anifesto** :
+In 1922, the modernists organized the *Week of Modern Art* in São Paulo. Until 33 years before that, Brazil was a self-proclaimed \"empire\" whose economy relied heavily on large *plantations* and *slave workforce* . As slavery was abolished, the republic established and legal immigrant labor became available, the country demanded new ways to understand and experience its **mixed cultural background** . During the Week of Modern Art visual artists, poets, writers and intellectuals helped to grant legitimacy to mixed social identities, as well as asserting the importance of São Paulo as a cultural centre[^1]. The modernists proposed that brazilian culture was a mixed one, in which tradition and novelty were articulated in terms of dialogue and assimilation. It is in that sense that poet Oswald de Andrade posed in the **Cannibalist** **Manifesto** :
 
-*\"I am only interested in what's not mine. The law of men. The law of the cannibal.* [^2^](#sdfootnote2sym){#sdfootnote2anc} *\"*
+*\"I am only interested in what's not mine. The law of men. The law of the cannibal.*[^2]
 
 Andrade drew on the story of Pero Fernandes Sardinha, first bishop of Brazil whose efforts to convert indigenous peoples resulted in him being eaten by the Caeté tribe in mid-16th century. Contemporary interpretation asserts that ritual cannibalism practiced by native brazilians was a sign of *respect* and *admiration* for an adversary. By eating his body, they were also *assimilating* his soul and spirit.
 
@@ -32,7 +32,7 @@ As stated above, both brazilian modernism (especially the cannibalist manifesto)
 
 ## 2. Culture and technologies
 
-Since the early 2000s, the overall presence of information technologies has had an immense growth in Brazil. This trend started in fact in the 1990s. After decades of a military dictatorship heavily protectionist in terms of international commerce, it was only in 1990 that brazilian citizens and companies were even *allowed to import technological equipment* . But it was shortly after the turn of the century that internet access started spreading and gave a huge cultural importance to information technologies [^3^](#sdfootnote3sym){#sdfootnote3anc} .
+Since the early 2000s, the overall presence of information technologies has had an immense growth in Brazil. This trend started in fact in the 1990s. After decades of a military dictatorship heavily protectionist in terms of international commerce, it was only in 1990 that brazilian citizens and companies were even *allowed to import technological equipment* . But it was shortly after the turn of the century that internet access started spreading and gave a huge cultural importance to information technologies[^3].
 
 By 2007, Brazil already had some statistics of notice. The brazilians who had access to the internet then were among the nationalities that *spent most time online* every week (and that was before smartphones and tablets arrived in the market). Brazilians were also early adopters of social networks, witnessing already in 2005 through now-discontinued platform Orkut the kind of *online social* *networking* *craze* most other countries would only see a couple years later with Facebook. By 2013, about half the population in Brazil had access to the internet -- a six-fold absolute increase in ten years, reaching more than *85 million people* . Such increase comes with a high level of cultural, political and economic implications. For the purposes of this report, we\'ll focus on the construction of the discourse of a *brazilian digital culture* .
 
@@ -46,7 +46,7 @@ Gil, once one of the most important musicians related to the aforementioned Trop
 
 MTB was deeply influenced by the *1999 protests* *in Seattle* and the first edition of the *World Social Forum* which took place in Porto Alegre (2002). MTB had for its turn a series of important outcomes, as groups with interests and practices alike working in diverse parts of the country had a first opportunity to meet and exchange.
 
-Some of these results were the **Autolabs** project of workshops in the outskirts of São Paulo which led to the **Findetático** festival, the **Digitofagia** meeting happening simultaneously in Rio de Janeiro and São Paulo (stemming from a digital interpretation of the cannibal manifesto), the participation of brazilian groups Midiatatica and MetaReciclagem in the Waag/Sarai exchange platform and the invitation offered to some of the groups involved with MTB to join the effort of developing - voluntarily in a first moment - **digital policies** for the Ministry of Culture. The latter would lead to a document called \" **appropriate technologies** \" that proposed a series of principles to be applied into cultural projects supported by the Ministry. The very idea of appropriate technologies relates to the way brazilians were assimilating digital technologies [^4^](#sdfootnote4sym){#sdfootnote4anc} . The most important implementation of those recommendations would be the Cultura Viva program.
+Some of these results were the **Autolabs** project of workshops in the outskirts of São Paulo which led to the **Findetático** festival, the **Digitofagia** meeting happening simultaneously in Rio de Janeiro and São Paulo (stemming from a digital interpretation of the cannibal manifesto), the participation of brazilian groups Midiatatica and MetaReciclagem in the Waag/Sarai exchange platform and the invitation offered to some of the groups involved with MTB to join the effort of developing - voluntarily in a first moment - **digital policies** for the Ministry of Culture. The latter would lead to a document called \" **appropriate technologies** \" that proposed a series of principles to be applied into cultural projects supported by the Ministry. The very idea of appropriate technologies relates to the way brazilians were assimilating digital technologies [^4]. The most important implementation of those recommendations would be the Cultura Viva program.
 
 ### 2.2. Cultura Digital - Ministério da Cultura
 
@@ -64,36 +64,17 @@ Under Suplicy, the investment in digital culture started to grow again - not onl
 
 It is worth noting that the Ministry is currently *returning* quite explicitly (whilst at the same time pretty slowly) to some of the positions and proposals that made it remarkably innovative during the last decade: reform of copyright law, creation of reference centres for digital culture, electronic arts, audiovisual production and digital inclusion, transforming the Pontos de Cultura into an official state program (in order to assure its continuity no matter who is in charge), among others.
 
-At this very moment, the Ministry is also jumpstarting the **Redelabs** project that will sport a network of labs on digital arts between 5 or 6 university departments, as well as a funding scheme for experimental projects on digital culture. Redelabs is another project that started in 2010 and was put aside for a couple years. In its first incarnation, Redelabs heard dozens of practitioners from several different contexts related to experimental digital culture and organised a meeting during the second CulturaDigital.Br forum willing to discuss media labs, hackerspaces and similar formations. Attended by 50 guests and counting 17 presentations during almost 3 hours, the meeting was a who\'s who of digital arts and culture in Brazil. The conversations were used recently as source materials for a consultancy on policies for digital labs comissioned by the Digital Culture Coordination [^5^](#sdfootnote5sym){#sdfootnote5anc} .
+At this very moment, the Ministry is also jumpstarting the **Redelabs** project that will sport a network of labs on digital arts between 5 or 6 university departments, as well as a funding scheme for experimental projects on digital culture. Redelabs is another project that started in 2010 and was put aside for a couple years. In its first incarnation, Redelabs heard dozens of practitioners from several different contexts related to experimental digital culture and organised a meeting during the second CulturaDigital.Br forum willing to discuss media labs, hackerspaces and similar formations. Attended by 50 guests and counting 17 presentations during almost 3 hours, the meeting was a who\'s who of digital arts and culture in Brazil. The conversations were used recently as source materials for a consultancy on policies for digital labs comissioned by the Digital Culture Coordination [^5].
 
-------------------------------------------------------------------------
+---
 
-<div>
+[^1] During those decades, São Paulo city and state grew quickly due to the massive production and export of coffee beans. Part of the outcomes of such a growth were invested into rapid industrialization that would turn São Paulo into the most economically developed (and populated) city and state in Brazil in only a matter of a couple decades, a status it still carries nowadays.
 
-[1](#sdfootnote1anc){#sdfootnote1sym} During those decades, São Paulo city and state grew quickly due to the massive production and export of coffee beans. Part of the outcomes of such a growth were invested into rapid industrialization that would turn São Paulo into the most economically developed (and populated) city and state in Brazil in only a matter of a couple decades, a status it still carries nowadays.
 
-</div>
+[2] [https://en.wikipedia.org/wiki/Manifesto_Antrop%C3%B3fago](https://en.wikipedia.org/wiki/Manifesto_Antropófago)
 
-<div>
+[3] From 6 million users in 2001, Brazil jumped to 22 million in 2003 - and the numbers kept going to reach 105 million ten years after that.
 
-[2](#sdfootnote2anc){#sdfootnote2sym} [https://en.wikipedia.org/wiki/Manifesto_Antrop%C3%B3fago](https://en.wikipedia.org/wiki/Manifesto_Antropófago)
+[4] Statistics suggest that brazilians who have access to the internet are often among those who spend the largest time online every week. Brazilians had a social networking craze using Orkut around early 2005, a couple years before a similar wave arrived to developed countries with the use of Facebook. Brazil also is unfortunately renowned for the huge amount of virus attacks originated in the country.
 
-</div>
-
-<div>
-
-[3](#sdfootnote3anc){#sdfootnote3sym} From 6 million users in 2001, Brazil jumped to 22 million in 2003 - and the numbers kept going to reach 105 million ten years after that.
-
-</div>
-
-<div>
-
-[4](#sdfootnote4anc){#sdfootnote4sym} Statistics suggest that brazilians who have access to the internet are often among those who spend the largest time online every week. Brazilians had a social networking craze using Orkut around early 2005, a couple years before a similar wave arrived to developed countries with the use of Facebook. Brazil also is unfortunately renowned for the huge amount of virus attacks originated in the country.
-
-</div>
-
-<div>
-
-[5](#sdfootnote5anc){#sdfootnote5sym} Published in full (portuguese version only) here: [http://redelabs-org.github.io]({{ "/" | relative_url }}) .
-
-</div>
+[5] Published in full (portuguese version only) here: [http://redelabs-org.github.io]({{ "/" | relative_url }}) .

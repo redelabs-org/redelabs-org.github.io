@@ -8,4 +8,4 @@ categories:
 original_source: blog/de-mudanca.html
 ---
 
-O blog Rede//Labs agora está em endereço próprio: [http://blog.redelabs-org.github.io](http://blog.redelabs-org.github.io/) .
+O blog Rede//Labs agora está em endereço próprio: [redelabs-org.github.io](https://redelabs-org.github.io/) .

@@ -42,7 +42,13 @@ No sábado, enquanto estava na fila do check-in para o voo que me traria a Madri
 
 **mondegrass:** \@efeefe mas ainda estou a aprender sobre tais órbitas, e meu caminho é longo\...
 
-**efeefe:** ainda: \"livre\" é outra esfera - ecológica/econômica, mas não interessa tanto em termos de linguagem. *devia é ser pré-requisito* . **efeefe:** outras ideias recorrentes: mídias, novas mídias, interface. E claro, o onipresente \"laboratório\". Labrat am I? **e ainda:** imaterial, criativo, disruptivo, sustentável, reflexivo, inclusivo, fluido, líquido, rizomático\... ixe, vai longe. **efeefe:** pra não falar nos chegados mais próximos - des, sub, meta, trans - como notou fabib.
+**efeefe:** ainda: \"livre\" é outra esfera - ecológica/econômica, mas não interessa tanto em termos de linguagem. *devia é ser pré-requisito* . 
+
+**efeefe:** outras ideias recorrentes: mídias, novas mídias, interface. E claro, o onipresente \"laboratório\". Labrat am I? 
+
+**e ainda:** imaterial, criativo, disruptivo, sustentável, reflexivo, inclusivo, fluido, líquido, rizomático\... ixe, vai longe. 
+
+**efeefe:** pra não falar nos chegados mais próximos - des, sub, meta, trans - como notou fabib.
 
 **bambozzi:** \@efeefe *ficar demais nos chegados já vira endomarketing* .
 
@@ -60,4 +66,6 @@ No sábado, enquanto estava na fila do check-in para o voo que me traria a Madri
 
 **efeefe:** não só na crítica genérica à contemporaneidade, mas se relacionando e *propondo soluções* \...
 
-**efeefe:** soluções pra disparidade, pro fundamentalismo moralista de origem religiosa (que existe aqui no Brasil sim!), pro consumismo. **efeefe:** pra violência urbana, pro desrespeito à natureza, pra todo cerceamento de liberdade - até aquele q grassa em círculos \"livres\".
+**efeefe:** soluções pra disparidade, pro fundamentalismo moralista de origem religiosa (que existe aqui no Brasil sim!), pro consumismo.
+
+**efeefe:** pra violência urbana, pro desrespeito à natureza, pra todo cerceamento de liberdade - até aquele q grassa em círculos \"livres\".

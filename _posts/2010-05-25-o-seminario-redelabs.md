@@ -8,7 +8,6 @@ categories:
 original_source: blog/o-seminario-redelabs.html
 ---
 
-<div>
 
 ## RedeLabs
 
@@ -17,5 +16,3 @@ O seminário RedeLabs tem por objetivo reunir artistas, produtores e curadores e
 ## Metodologia
 
 O seminário abrirá uma chamada para participações. Cerca de cinquenta pessoas de todo o país se reunirão para dois dias de debates e sessões de planejamento coletivo. Todas as sessões serão transmitidas via internet e acompanhadas de chat ao vivo. O objetivo é encerrar o seminário com proposições setoriais e recomendações de desenvolvimento. Todo o material gerado durante o seminário (áudio, vídeo, textos, imagens) será publicado na internet com licenças livres e deverá ser editado e compilado em uma publicação nos meses seguintes.
-
-</div>

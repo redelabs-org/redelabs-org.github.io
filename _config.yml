@@ -29,6 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: kramdown
+
 # Exclude from processing.
 exclude:
   - Gemfile
@@ -51,6 +53,9 @@ collections:
     output: false
   source_pages:
     output: false
+
+# paginate: 10
+# paginate_path: "/blog/page:num/"
 
 # Default frontmatter for specific collections or types
 defaults:

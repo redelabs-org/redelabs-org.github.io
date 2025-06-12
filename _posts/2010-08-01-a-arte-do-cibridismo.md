@@ -8,4 +8,4 @@ categories:
 original_source: blog/arte-do-cibridismo.html
 ---
 
-O [blog](http://culturadigital.br/artedocibridismo/) do projeto de pesquisa de Thiago Carrapatoso para a bolsa de produção crítica em mídias digitais ( [A Arte do Cibridismo](http://culturadigital.br/artedocibridismo/) ) tem excelentes entrevistas com gente que está produzindo e pesquisando assuntos ligados à Cultura Digital Experimental (ou como queiram chamar) no Brasil. Linguagem, espaços, fomento, produção e outros temas emergem das conversas por ali. Bom alimento pra [RedeLabs]({{ "/" | relative_url }}) .
+O [blog](http://culturadigital.br/artedocibridismo/) do projeto de pesquisa de Thiago Carrapatoso para a bolsa de produção crítica em mídias digitais ([A Arte do Cibridismo](http://culturadigital.br/artedocibridismo/) ) tem excelentes entrevistas com gente que está produzindo e pesquisando assuntos ligados à Cultura Digital Experimental (ou como queiram chamar) no Brasil. Linguagem, espaços, fomento, produção e outros temas emergem das conversas por ali. Bom alimento pra RedeLabs.

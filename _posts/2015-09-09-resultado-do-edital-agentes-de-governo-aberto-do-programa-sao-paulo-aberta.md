@@ -6,25 +6,11 @@ date: 2015-09-09
 original_source: blog/resultado-do-edital-“agentes-de-governo-aberto”-do-programa-são-paulo-aberta.html
 ---
 
-<div>
-
-<div>
-
-<div>
-
-## A [São Paulo Aberta](http://saopauloaberta.prefeitura.sp.gov.br/) (iniciativa da Prefeitura de São Paulo para promover o governo aberto) acaba de divulgar os nomes dos 48 selecionados para o Edital "Agentes de Governo Aberto", o programa que vai compartilhar cultura participativa e transparente por toda cidade.
+A [São Paulo Aberta](http://saopauloaberta.prefeitura.sp.gov.br/) (iniciativa da Prefeitura de São Paulo para promover o governo aberto) acaba de divulgar os nomes dos 48 selecionados para o Edital "Agentes de Governo Aberto", o programa que vai compartilhar cultura participativa e transparente por toda cidade.
 
 Fonte: [São Paulo Aberta](http://saopauloaberta.prefeitura.sp.gov.br/index.php/noticia/edital-confira-os-48-selecionados-para-serem-agentes-de-governo-aberto)\
 \
-/De 08 de julho a 17 de agosto, as inscrições ficaram abertas na plataforma da SPCultura e todas as informações no portal da São Paulo Aberta. Doze oficinas presenciais foram realizadas em todas as regiões da cidade, além de tira-dúvidas ao vivo, oficinas digitais com a equipe do Edital e atendimento por email e redes sociais.
-
-</div>
-
-</div>
-
-</div>
-
-<div>
+De 08 de julho a 17 de agosto, as inscrições ficaram abertas na plataforma da SPCultura e todas as informações no portal da São Paulo Aberta. Doze oficinas presenciais foram realizadas em todas as regiões da cidade, além de tira-dúvidas ao vivo, oficinas digitais com a equipe do Edital e atendimento por email e redes sociais.
 
 A Prefeitura recebeu 250 inscrições nas quatro categorias estipuladas pelo programa: Transparência e Dados Abertos, Mapeamento Colaborativo e Gestão Participativa, Tecnologia Aberta e Colaborativa e Comunicação em Rede. Dentre os selecionados, a Zona Oeste liderou a lista com 18 agentes, seguida pela Zona Leste com 11, Centro com 9 e as regiões Norte e Sul com 5 respectivamente.
 
@@ -62,4 +48,3 @@ Para mais informações: <saopauloaberta@prefeitura.sp.gov.br>
 
 **[Ordem de Classificação Comunicação em Rede](http://saopauloaberta.prefeitura.sp.gov.br/wp-content/uploads/2015/09/Ordem-de-Classificação-Tecnologia-Aberta.docx)**
 
-</div>

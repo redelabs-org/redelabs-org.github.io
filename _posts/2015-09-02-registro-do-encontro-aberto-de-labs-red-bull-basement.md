@@ -6,6 +6,8 @@ date: 2015-09-02
 original_source: blog/registro-do-encontro-aberto-de-labs-red-bull-basement.html
 ---
 
+![RBB](https://archive.org/download/redelabsencontro/redelabs4.JPG)
+
 **[Áudio dia 1 - 22 de agosto](https://archive.org/details/201508022EncontroLabs)**\
 Apresentação do Rede//Labs - Felipe Fonseca e Luciana Fleischman\
 Micro-apresentações e debate com João Cassino (FabLabs da Prefeitura de São Paulo), Ricardo Palmieri (Gambiarra Favela Tech), Ricardo Brazileiro (LabCEUS), Jorge Lopez Ramos (Residência DRIFT), Diane Lima (No Brasil) e outrxs.\

@@ -9,12 +9,12 @@ categories:
 original_source: blog/nascentes-de-dados-da-fumaça.html
 ---
 
-<div>
+
 
 \
 Repassando a convocatória da Nuvem/Fumaça:
 
-</div>
+
 
 [http://nuvem.tk/wiki/index.php/Convocatória\_-\_Fumaça_Data_Springs](http://nuvem.tk/wiki/index.php/Convocatória_-_Fumaça_Data_Springs){target="_blank"}
 

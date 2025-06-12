@@ -16,4 +16,8 @@ original_source: blog/laboratorios-de-experimentacao-em-cultura-digital-gangues-
 
 > Acreditamos, portanto, que o apoio a uma Rede de Laboratórios Para a Experimentação em Cultura Digital possa ter como objetivos a busca de inovações tecnológicas, políticas, econômicas e sociais para os desafios do nosso século. Para tanto, se faz fundamental a sinergia entre todos os produtores, órgãos públicos, sociedade civil e empresas do setor privado na busca por protocolos e objetivos em comum para o bem comum, sem  perderem nunca sua autonomia de produção, estruturação e gestão.
 
-**\* Ricardo Ruiz é entusiasta da alegria, formado e pós-graduado.** **\* Cary Grant é ator e espião.**
+---
+
+\* Ricardo Ruiz é entusiasta da alegria, formado e pós-graduado.
+
+\* Cary Grant é ator e espião.
