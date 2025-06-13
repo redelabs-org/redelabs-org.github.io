@@ -1,6 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/02/redelabs-2010'
+exclude: true
+---
 
-4. Anexo II: Encontro Redelabs (2010)
-=====================================
+# 4. Anexo II: Encontro Redelabs (2010)
 
 Em novembro de 2010 celebrou-se na Cinemateca Brasileira, em São Paulo,
 a segunda edição do Fórum da Cultura Digital Brasileira. Era um evento

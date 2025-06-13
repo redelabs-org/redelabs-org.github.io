@@ -1,6 +1,11 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/02/intro'
+exclude: true
+---
 
-1. Introdução
-=============
+# 1. Introdução
+
 
 Este documento compõe a segunda de três etapas do estudo sobre modos de
 produção de cultura digital situados na fronteira entre arte, ciência,

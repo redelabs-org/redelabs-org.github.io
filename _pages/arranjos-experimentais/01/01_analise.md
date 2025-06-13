@@ -1,6 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/01/analise'
+exclude: true
+---
 
-**1. Análise e compilação**
-===========================
+# 1. Análise e compilação
 
 Este levantamento tem por objetivo analisar os modos de produção de
 cultura digital situados na fronteira entre arte, ciência, tecnologia,

@@ -1,25 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/02/entrevistas'
+exclude: true
+---
 
-Anexo I - Entrevistas {#anexo-i---entrevistas .page-title}
-=====================
-
-::: {.region .region-content}
-::: {#block-system-main .block .block-system}
-::: {.content}
-[]{.rdf-meta .element-hidden property="dc:title"
-content="Anexo I - Entrevistas"}[]{.rdf-meta .element-hidden
-property="sioc:num_replies" content="0" datatype="xsd:integer"} [ Posted
-By
-[[efeefe](http://redelabs-org.github.io/pessoas/efeefe "View user profile."){.username}]{rel="sioc:has_creator"}
-On [Sunday, 28 September 2014]{property="dc:date dc:created"
-content="2014-09-28T11:05:42-03:00" datatype="xsd:dateTime"}
-]{.submitted}
-
-::: {.content}
-::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden}
-::: {.field-items}
-::: {.field-item .even property="content:encoded"}
-3. Anexo I: Entrevistas
-=======================
+# 3. Anexo I: Entrevistas
 
 3.1. Lucas Bambozzi
 -------------------

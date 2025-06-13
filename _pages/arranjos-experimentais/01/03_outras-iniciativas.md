@@ -1,6 +1,11 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/01/outras-iniciativas'
+exclude: true
+---
 
-3. Anexo II: Listagem de outras iniciativas
-===========================================
+# 3. Anexo II: Listagem de outras iniciativas
+
 
 []{#__RefHeading__3706_1722740896}3.1. Brasil
 ---------------------------------------------

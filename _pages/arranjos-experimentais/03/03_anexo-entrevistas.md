@@ -1,23 +1,11 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/03/anexo-entrevistas'
+exclude: true
+---
 
-Anexo: Entrevistas e comentários {#anexo-entrevistas-e-comentários .page-title}
-================================
+# 3. Anexo: Entrevistas e comentários
 
-::: {.region .region-content}
-::: {#block-system-main .block .block-system}
-::: {.content}
-[]{.rdf-meta .element-hidden property="dc:title"
-content="Anexo: Entrevistas e comentários"}[]{.rdf-meta .element-hidden
-property="sioc:num_replies" content="0" datatype="xsd:integer"} [ Posted
-By
-[[efeefe](http://redelabs-org.github.io/pessoas/efeefe "View user profile."){.username}]{rel="sioc:has_creator"}
-On [Friday, 24 October 2014]{property="dc:date dc:created"
-content="2014-10-24T18:03:58-02:00" datatype="xsd:dateTime"}
-]{.submitted}
-
-::: {.content}
-::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden}
-::: {.field-items}
-::: {.field-item .even property="content:encoded"}
 3.1. Paulo Amoreira
 -------------------
 

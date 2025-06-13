@@ -1,6 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/02/referencias'
+exclude: true
+---
 
-5. Referências
-==============
+# 5. Referências
 
 -   BAMBOZZI, Lucas. Entrevista a Luciana Fleischman. 2014.
 -   BARBROOK, Richard; CAMERON, Andy. The Californian Ideology.

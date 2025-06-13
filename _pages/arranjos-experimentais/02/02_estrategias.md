@@ -1,26 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/02/estrategias'
+exclude: true
+---
 
-
-Estratégias e recomendações {#estratégias-e-recomendações .page-title}
-===========================
-
-::: {.region .region-content}
-::: {#block-system-main .block .block-system}
-::: {.content}
-[]{.rdf-meta .element-hidden property="dc:title"
-content="Estratégias e recomendações"}[]{.rdf-meta .element-hidden
-property="sioc:num_replies" content="0" datatype="xsd:integer"} [ Posted
-By
-[[efeefe](http://redelabs-org.github.io/pessoas/efeefe "View user profile."){.username}]{rel="sioc:has_creator"}
-On [Sunday, 28 September 2014]{property="dc:date dc:created"
-content="2014-09-28T11:03:31-03:00" datatype="xsd:dateTime"}
-]{.submitted}
-
-::: {.content}
-::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden}
-::: {.field-items}
-::: {.field-item .even property="content:encoded"}
-2. Estratégias e recomendações
-==============================
+# 2. Estratégias e recomendações
 
 Com o objetivo de contribuir para a formulação de políticas públicas
 voltadas ao desenvolvimento de produção criativa em cultura digital,

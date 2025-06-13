@@ -1,6 +1,11 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/01/referencias'
+exclude: true
+---
 
-5. Referências
-==============
+# 5. Referências
+
 
 -   BANSAL, Lipika; KELLER, Paul; LOVINK, Geert. In the Shade of the
     Commons. Nova Déli: C.R. Park, 2006.

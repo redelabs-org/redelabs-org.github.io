@@ -1,6 +1,10 @@
+---
+layout: page
+permalink: '/arranjos-experimentais/01/mapeamento'
+exclude: true
+---
 
-2. Anexo I: Mapeamento de Iniciativas
-=====================================
+# 2. Anexo I: Mapeamento de Iniciativas
 
 Levantamento desenvolvido com a colaboração de Luciana Fleischman.
 
