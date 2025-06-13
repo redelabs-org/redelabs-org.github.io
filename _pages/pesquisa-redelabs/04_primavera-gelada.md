@@ -1,4 +1,21 @@
-<h1>4 Primavera Gelada</h1>
+---
+layout: page
+permalink: '/pesquisa-redelabs/primavera-gelada'
+exclude: true
+---
+
+**Pesquisa Rede//Labs - Capítulos**
+
+- [00. Página Inicial](/pesquisa-redelabs)
+- [01. Introdução: Laboratórios Experimentais em Rede](/pesquisa-redelabs/laboratorios-experimentais)
+- [02. Cultura Digital Experimental](/pesquisa-redelabs/cultura-digital-experimental)
+- [03. Labs no Mundo](/pesquisa-redelabs/labs-no-mundo)
+- [04. Primavera Gelada](/pesquisa-redelabs/primavera-gelada) (_esta página_)
+- [05. Conclusão: Espaços em Branco](/pesquisa-redelabs/espacos-em-branco)
+- [06. Referências](/pesquisa-redelabs/referencias)
+
+
+# Primavera Gelada
 
 <p>Helsinque, na Finlândia, é sede de diversas iniciativas que operam na fronteira entre arte, ciência e tecnologia. Aproveitei duas visitas que fiz àquela cidade – durante as quais estaria colaborando com a realização de um festival internacional que opera justamente nestes campos – para desenvolver uma observação de inspiração etnográfica. Me interessava obter um retrato mais aprofundado do cenário como um todo do que seria possível simplesmente estudando labs isoladamente e à distância. O grande número de arranjos experimentais e a diversidade em suas configurações e metodologias, em contraste com a escala de uma cidade relativamente pequena, acabariam trazendo insights importantes para entender possibilidades correntes dos labs experimentais. Este capítulo traz um relato deste período em Helsinque.</p>
 

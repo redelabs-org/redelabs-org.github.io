@@ -1,4 +1,21 @@
-<h1>6 Referências</h1>
+---
+layout: page
+permalink: '/pesquisa-redelabs/referencias'
+exclude: true
+---
+
+**Pesquisa Rede//Labs - Capítulos**
+
+- [00. Página Inicial](/pesquisa-redelabs)
+- [01. Introdução: Laboratórios Experimentais em Rede](/pesquisa-redelabs/laboratorios-experimentais)
+- [02. Cultura Digital Experimental](/pesquisa-redelabs/cultura-digital-experimental)
+- [03. Labs no Mundo](/pesquisa-redelabs/labs-no-mundo)
+- [04. Primavera Gelada](/pesquisa-redelabs/primavera-gelada)
+- [05. Conclusão: Espaços em Branco](/pesquisa-redelabs/espacos-em-branco)
+- [06. Referências](/pesquisa-redelabs/referencias) (_esta página_)
+
+
+# Referências
 
 <p>ALÉ, Reinaldo Villar. <strong>La significación del medialab en iberoamérica.</strong> In: TRIM. Valladolid: Centro Tordesillas de Relaciones con Iberoamérica, Universidad de Valladolid, 2010-, v. 3, 2011. Semestral. ISSN 2173-8945.</p>
 

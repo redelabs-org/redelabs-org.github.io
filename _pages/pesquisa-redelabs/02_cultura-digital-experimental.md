@@ -1,4 +1,20 @@
-<h1>2 Cultura Digital Experimental</h1>
+---
+layout: page
+permalink: '/pesquisa-redelabs/cultura-digital-experimental'
+exclude: true
+---
+
+**Pesquisa Rede//Labs - Capítulos**
+
+- [00. Página Inicial](/pesquisa-redelabs)
+- [01. Introdução: Laboratórios Experimentais em Rede](/pesquisa-redelabs/laboratorios-experimentais)
+- [02. Cultura Digital Experimental](/pesquisa-redelabs/cultura-digital-experimental) (_esta página_)
+- [03. Labs no Mundo](/pesquisa-redelabs/labs-no-mundo)
+- [04. Primavera Gelada](/pesquisa-redelabs/primavera-gelada)
+- [05. Conclusão: Espaços em Branco](/pesquisa-redelabs/espacos-em-branco)
+- [06. Referências](/pesquisa-redelabs/referencias)
+
+# Cultura Digital Experimental
 
 <p>Atualmente, diferentes iniciativas no mundo inteiro têm usado a imagem do laboratório, ou "lab", para identificar a si próprias ou a ações que desenvolvem. São usualmente espaços - utilizados de forma temporária ou permanente - dedicados à produção colaborativa transdisciplinar, em especial aproximando profissionais de artes, design, tecnologia, educação e ciências, entre outras áreas. Apesar da utilização de uma denominação comum, o universo de iniciativas que se identificam como laboratórios é significativamente amplo e diverso. O lab cristaliza-se de maneira particular para cada contexto em que surge.</p>
 

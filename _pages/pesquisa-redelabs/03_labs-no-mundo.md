@@ -1,4 +1,20 @@
-3 Labs no Mundo</h1>
+---
+layout: page
+permalink: '/pesquisa-redelabs/labs-no-mundo'
+exclude: true
+---
+
+**Pesquisa Rede//Labs - Capítulos**
+
+- [00. Página Inicial](/pesquisa-redelabs)
+- [01. Introdução: Laboratórios Experimentais em Rede](/pesquisa-redelabs/laboratorios-experimentais)
+- [02. Cultura Digital Experimental](/pesquisa-redelabs/cultura-digital-experimental)
+- [03. Labs no Mundo](/pesquisa-redelabs/labs-no-mundo) (_esta página_)
+- [04. Primavera Gelada](/pesquisa-redelabs/primavera-gelada)
+- [05. Conclusão: Espaços em Branco](/pesquisa-redelabs/espacos-em-branco)
+- [06. Referências](/pesquisa-redelabs/referencias)
+
+# Labs no Mundo
 
 <p>Em março de 2010, às vésperas da realização de mais uma edição do festival Pixelache<sup><a class="sdfootnoteanc" href="#sdfootnote1sym" name="sdfootnote1anc" id="sdfootnote1anc"><sup>1</sup></a></sup> em Helsinque, o então Diretor Artístico do festival Juha Huuskonen publicou no blog do evento o seguinte post:</p>
 

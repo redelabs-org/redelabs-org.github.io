@@ -1,4 +1,22 @@
-<h1>5 Conclusão: espaços em branco</h1>
+---
+layout: page
+permalink: '/pesquisa-redelabs/espacos-em-branco'
+exclude: true
+---
+
+
+## Pesquisa Rede//Labs - Capítulos
+
+- [00. Página Inicial](/pesquisa-redelabs)
+- [01. Introdução: Laboratórios Experimentais em Rede](/pesquisa-redelabs/laboratorios-experimentais)
+- [02. Cultura Digital Experimental](/pesquisa-redelabs/cultura-digital-experimental)
+- [03. Labs no Mundo](/pesquisa-redelabs/labs-no-mundo)
+- [04. Primavera Gelada](/pesquisa-redelabs/primavera-gelada)
+- [05. Conclusão: Espaços em Branco](/pesquisa-redelabs/espacos-em-branco) (_esta página_)
+- [06. Referências](/pesquisa-redelabs/referencias)
+
+
+# Conclusão: Espaços em Branco
 
 <p>Quer se trate do impulso empreendedor com objetivos comerciais, do desejo de criar uma sociedade mais justa e includente, da exploração estética e de linguagem ou de qualquer uma das possíveis combinações entre esses três e eixos e outros similares, o vasto campo de atividades onde se aproximam cultura e tecnologia tem uma questão central a enfrentar. Qual seria seu poder real de influenciar o sentido e o ritmo do desenvolvimento e da apropriação de tecnologias? Existiria permeabilidade aos interesses da sociedade dentro dos processos de desenvolvimento tecnológico? Ou pelo contrário, seria tal desenvolvimento autônomo e não influenciado - e ainda menos comprometido - com aqueles interesses? Em outras palavras, seria possível projetar tecnologias e usos dessas tecnologias que assegurassem transformação seguindo linhas intencionais, ou que ao menos aumentassem a probabilidade de ocorrência de transformação de acordo com planos conscientes? Até que ponto instrumentalizar as tecnologias com o objetivo de moldar o futuro é um caminho efetivo para interferir no estado das coisas? Quais são as consequências que isso pode trazer?</p>
 
