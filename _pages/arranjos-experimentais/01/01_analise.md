@@ -4,6 +4,13 @@ permalink: '/arranjos-experimentais/01/analise'
 exclude: true
 ---
 
+[I - Mapeamento](/arranjos-experimentais/01)
+- **[Análise e Compilação](/arranjos-experimentais/01/analise)**
+- [Mapeamento](/arranjos-experimentais/01/mapeamento)
+- [Outras Iniciativas](/arranjos-experimentais/01/outras-iniciativas)
+- [Imagens](/arranjos-experimentais/01/imagens)
+- [Referências](/arranjos-experimentais/01/referencias)
+
 # 1. Análise e compilação
 
 Este levantamento tem por objetivo analisar os modos de produção de
@@ -130,8 +137,7 @@ escapar a alguns bloqueios encontrados contemporaneamente em iniciativas
 atuantes nestes campos. Trataremos desta proposta em maior profundidade
 no decorrer das próximas páginas.
 
-[]{#__RefHeading__18196_388795938}1.1. Histórico: Cultura Digital 2003-2010
----------------------------------------------------------------------------
+## 1.1. Histórico: Cultura Digital 2003-2010
 
 Ao longo das décadas recentes, o acesso e o uso das tecnologias de
 informação e comunicação em rede cresceu exponencialmente. Somente entre

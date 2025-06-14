@@ -4,6 +4,12 @@ permalink: '/arranjos-experimentais/03/referencias'
 exclude: true
 ---
 
+[III - Implementação](/arranjos-experimentais/03)
+- [Introdução](/arranjos-experimentais/03/intro)
+- [Estratégias](/arranjos-experimentais/03/estrategias)
+- [Anexo Entrevistas](/arranjos-experimentais/03/anexo-entrevistas)
+- **[Referências](/arranjos-experimentais/03/referencias)**
+
 # Referências
 
 AMOREIRA, Paulo. Entrevista a Luciana Fleischman. 2014.

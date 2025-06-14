@@ -4,6 +4,13 @@ permalink: '/arranjos-experimentais/02/estrategias'
 exclude: true
 ---
 
+[II - Estratégias](/arranjos-experimentais/02)
+- [Introdução](/arranjos-experimentais/02/intro)
+- **[Estratégias](/arranjos-experimentais/02/estrategias)**
+- [Entrevistas](/arranjos-experimentais/02/entrevistas)
+- [Redelabs 2010](/arranjos-experimentais/02/redelabs-2010)
+- [Referências](/arranjos-experimentais/02/referencias)
+
 # 2. Estratégias e recomendações
 
 Com o objetivo de contribuir para a formulação de políticas públicas

@@ -4,12 +4,18 @@ permalink: '/arranjos-experimentais/01/mapeamento'
 exclude: true
 ---
 
+[I - Mapeamento](/arranjos-experimentais/01)
+- [Análise e Compilação](/arranjos-experimentais/01/analise)
+- **[Mapeamento](/arranjos-experimentais/01/mapeamento)**
+- [Outras Iniciativas](/arranjos-experimentais/01/outras-iniciativas)
+- [Imagens](/arranjos-experimentais/01/imagens)
+- [Referências](/arranjos-experimentais/01/referencias)
+
 # 2. Anexo I: Mapeamento de Iniciativas
 
 Levantamento desenvolvido com a colaboração de Luciana Fleischman.
 
-[]{#__RefHeading__18204_388795938}2.1. Nuvem -- estação rural de arte e tecnologia (Brasil)
--------------------------------------------------------------------------------------------
+## 2.1. Nuvem -- estação rural de arte e tecnologia (Brasil)
 
 Estação rural voltada para experimentação, pesquisa e criação vinculada
 à tecnologia (arquitetura, comunicação, geração sustentável de energia)
@@ -19,7 +25,7 @@ cultura da autonomia. 3. Centro de residências e autoresidências para
 artistas e projetistas.[^1^](#sdfootnote1sym){#sdfootnote1anc
 .sdfootnoteanc}
 
-### []{#__RefHeading__18206_388795938}2.1.1. Local
+## 2.1.1. Local
 
 **Sede principal:** Visconde de Mauá, RJ
 
@@ -56,7 +62,7 @@ Segundo os atuais gestores do projeto,
 > ocupação esperamos recuperar ferramentas vitais para a criatividade: a
 > contemplação, a distração, a espera." (VIANNA; MENDONÇA, 2013)
 
-### []{#__RefHeading__18208_388795938}**2.1.3. Websites**
+## 2.1.3. Websites
 
 -   Website do projeto: <http://nuvem.tk/>
 
@@ -67,9 +73,9 @@ Segundo os atuais gestores do projeto,
 -   Facebook:
     [https://www.facebook.com/pages/Nuvem-Esta%C3%A7%C3%A3o-Rural-de-Arte-e-T\...](https://www.facebook.com/pages/Nuvem-Estação-Rural-de-Arte-e-Tecnologia/109173355866652)
 
-### []{#__RefHeading__18210_388795938}**2.1.4. Breve Histórico de atividades**
+## 2.1.4. Breve Histórico de atividades
 
-#### []{#__RefHeading__18212_388795938}2.1.4.1. Residências
+## 2.1.4.1. Residências
 
 Entre 2012 e 2013 a Nuvem desenvolveu quatro programas de residências
 com diferentes modalidades:

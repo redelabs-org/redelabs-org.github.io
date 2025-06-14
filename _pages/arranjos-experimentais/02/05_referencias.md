@@ -4,6 +4,13 @@ permalink: '/arranjos-experimentais/02/referencias'
 exclude: true
 ---
 
+[II - Estratégias](/arranjos-experimentais/02)
+- [Introdução](/arranjos-experimentais/02/intro)
+- [Estratégias](/arranjos-experimentais/02/estrategias)
+- [Entrevistas](/arranjos-experimentais/02/entrevistas)
+- [Redelabs 2010](/arranjos-experimentais/02/redelabs-2010)
+- **[Referências](/arranjos-experimentais/02/referencias)**
+
 # 5. Referências
 
 -   BAMBOZZI, Lucas. Entrevista a Luciana Fleischman. 2014.
