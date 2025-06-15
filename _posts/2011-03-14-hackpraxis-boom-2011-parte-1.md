@@ -6,6 +6,8 @@ date: 2011-03-14
 categories:
   - 'projetos'
 original_source: blog/hackpraxis-boom-2011-–-parte-1.html
+redirect_from:
+  - blog/hackpraxis-boom-2011-–-parte-1.html
 ---
 
 Hacklabs, Bricolabs, Redelabs, Medialabs, PósLabs em um Movimento dos Sem Satélite.

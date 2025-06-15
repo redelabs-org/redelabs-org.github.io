@@ -6,6 +6,8 @@ date: 2010-09-23
 categories:
   - 'eventos'
 original_source: blog/interactivos-10-bh.html
+redirect_from:
+  - blog/interactivos-10-bh.html
 ---
 
 Está aberta até semana que vem a chamada por projetos para a primeira edição Brasileira do [Interactivos](http://interactivos.marginalialab.com/) (baseado no [Interactivos](http://interactivos.org/) do [Medialab Prado](http://medialab-prado.es/) ), que vai acontecer entre novembro e dezembro em BH, organizada pelo pessoal do [Marginalia+lab](http://marginaliaproject.com/lab/) .

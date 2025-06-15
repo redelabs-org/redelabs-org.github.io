@@ -7,6 +7,8 @@ categories:
   - 'eventos'
   - 'Sem categoria'
 original_source: blog/encontro-redelabs-como-foi.html
+redirect_from:
+  - blog/encontro-redelabs-como-foi.html
 ---
 
 Resultado do processo de articulação em rede documentado no [blog RedeLabs](http://culturadigital.br/redelabs) , o primeiro encontro RedeLabs aconteceu na Cinemateca, durante o [Fórum da Cultura Digital Brasileira](http://culturadigital.br/forum2010) . Reuniu mais de cinquenta pessoas vindas de diferentes regiões do Brasil e representando diversos contextos - instituições, universidades, ONGs, redes e coletivos. Elas se dispuseram a passar uma tarde inteira debatendo projetos, referências, aspirações e possibilidades.

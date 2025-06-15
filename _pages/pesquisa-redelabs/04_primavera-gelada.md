@@ -2,6 +2,8 @@
 layout: page
 permalink: '/pesquisa-redelabs/primavera-gelada'
 exclude: true
+redirect_from:
+  - /livro/primavera-gelada.html
 ---
 
 **Pesquisa Rede//Labs - Capítulos**

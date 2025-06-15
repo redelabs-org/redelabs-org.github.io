@@ -6,6 +6,8 @@ date: 2010-06-28
 categories:
   - 'Meta'
 original_source: blog/laboratorios-de-experimentacao-em-cultura-digital-gangues-e-industria-criativa.html
+redirect_from:
+  - blog/laboratorios-de-experimentacao-em-cultura-digital-gangues-e-industria-criativa.html
 ---
 
 **Atualizando:** [Ricardo Ruiz](http://www.culturadigital.br/ruiz/) \* e Cary Grant\* escreveram um [artigo](http://www.culturadigital.br/ruiz/2010/06/28/laboratorios-de-experimentacao-em-cultura-digital-as-gangues-e-a-industria-criativa/) relacionando laboratórios experimentais, a classe do novo, uma visão mais ampla das indústrias criativas, gang power, a história recente do [Ministério da Cultura](http://cultura.gov.br/) , o [des).(centro](http://pub.descentro.org/) e conhecimento livre. O artigo finaliza com recomendações para a reflexão e para propostas derivadas do projeto [Redelabs]({{ "/" | relative_url }}) . Tentei umas quinze vezes colar a íntegra do texto aqui embaixo, com todas as notas e citações, mas não consegui. Vão abaixo dois trechos que achei interessantes, e fica a recomendação de leitura do artigo: [Laboratórios de Experimentação em Cultura Digital, as Gangues e a Indústria Criativa](http://www.culturadigital.br/ruiz/2010/06/28/laboratorios-de-experimentacao-em-cultura-digital-as-gangues-e-a-industria-criativa/) .

@@ -6,6 +6,8 @@ date: 2011-03-03
 categories:
   - 'Sem categoria'
 original_source: blog/laboratorios-experimentais-interface-rede-rua.html
+redirect_from:
+  - blog/laboratorios-experimentais-interface-rede-rua.html
 ---
 
 > Tenho [percorrido de bicicleta](http://ubalab.org/blog/em-duas-rodas) as ruas de Ubatuba tentando articular a visão de *[cidade como sistema operacional](http://ubalab.org/blog/metareciclando-cidades-digitais)* com a reflexão sobre o papel que deve exercer um Laboratório Experimental nos moldes do que propus no artigo sobre [Inovação e Tecnologias Livres (parte 2)](http://desvio.cc/blog/inovacao-e-tecnologias-livres-parte-2-hojes-e-depois) . Qualquer cidade pode ser entendida como justaposição de fluxos de informação que se entrecortam, afetam-se uns aos outros e no processo criam realidades, oportunidades e também limitações. Essa visão quase óbvia sugere incontáveis formas de intervir na realidade local. Mas no momento estou procurando um foco específico para concentrar esforços. Uma imagem, um formato para inspirar e orientar. Minhas áreas de interesse continuam sendo a apropriação crítica de tecnologias, a experimentação e descoberta, o aprendizado em rede, a construção coletiva e circulação de conhecimento livre, a [MetaReciclagem](http://rede.metareciclagem.org/) . É por aí que caminha esse post.

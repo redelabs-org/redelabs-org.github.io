@@ -6,6 +6,8 @@ date: 2010-06-15
 categories:
   - 'Sem categoria'
 original_source: blog/redelabs-caminhos-brasileiros-para-cultura-digital-experimental.html
+redirect_from:
+  - blog/redelabs-caminhos-brasileiros-para-cultura-digital-experimental.html
 ---
 
 Em [outro post](http://culturadigital.br/redelabs/2010/06/laboratorios-de-midia-referencias/) , falei sobre dois modelos lembrados com frequência quando se fala em laboratórios de mídia. Para o nosso contexto aqui no Brasil, esses exemplos externos são importantes menos por suas características específicas - infra-estrutura, funcionamento, costura institucional ou metodologias - do que por sua *adequação às características do contexto* em que se inserem. Também levantei nesse texto anterior que uma certa sensação de *liberdade* pode ser o elemento que esses modelos diferentes têm em comum. Como a proposta do projeto [redelabs]({{ "/" | relative_url }}) é promover o diálogo entre essas iniciativas de todo o mundo com o que é interessante e possível fazer aqui no Brasil, quero começar a desdobrar um pouco das nossas particularidades, e pensar em como isso pode apontar caminhos futuros. Abaixo eu tento relacionar alguns fatos, eventos, estruturas e redes que têm alguma relação com isso. Estou certamente bastante limitado à minha própria experiência, e adoraria receber comentários e sugestões sobre o que mais for relevante.

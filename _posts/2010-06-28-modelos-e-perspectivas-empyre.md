@@ -6,6 +6,8 @@ date: 2010-06-28
 categories:
   - 'Sem categoria'
 original_source: blog/modelos-e-perspectivas-empyre.html
+redirect_from:
+  - blog/modelos-e-perspectivas-empyre.html
 ---
 
 Passei uma tarde da semana passada relendo o debate sobre *Modelos e perspectivas para Centros de Mídia e Organizações de Arte em Rede* moderado por Marcus Bastos em [agosto de 2008](https://lists.cofa.unsw.edu.au/pipermail/empyre/2008-August/) na [lista Empyre](http://subtle.net/empyre) . Na época eu estava cadastrado na lista, mas a vida estava uma correria e não consegui participar muito.

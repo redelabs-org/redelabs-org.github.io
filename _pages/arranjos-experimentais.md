@@ -3,6 +3,11 @@ layout: page
 title: 'Arranjos Experimentais Criativos em Cultura Digital'
 permalink: '/arranjos-experimentais'
 exclude: true
+redirect_from:
+  - /livro/
+  - /minc/
+  - /livro/arranjos-experimentais-criativos-em-cultura-digital.html
+  - /livro/minc-14/
 ---
 
 Estudo desenvolvido em 2014 por Felipe Schmidt Fonseca e Luciana Fleischman sobre arranjos experimentais criativos em Cultura Digital para o Ministério da Cultura do Brasil (Coordenação-Geral de Cultura Digital).

@@ -6,6 +6,8 @@ date: 2010-04-25
 categories:
   - 'Sem categoria'
 original_source: blog/redelabs-contexto.html
+redirect_from:
+  - blog/redelabs-contexto.html
 ---
 
 > *Remixando um texto já publicado antes, trazendo novos insights, etc\...*

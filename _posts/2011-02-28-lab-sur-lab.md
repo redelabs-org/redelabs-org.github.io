@@ -6,6 +6,8 @@ date: 2011-02-28
 categories:
   - 'eventos'
 original_source: blog/lab-sur-lab.html
+redirect_from:
+  - blog/lab-sur-lab.html
 ---
 
 Uma das coisas que me surpreendeu ano passado durante o [Labtolab em Madrid](http://desvio.cc/blog/labtolab-dia-dia) foi a grande quantidade de convidadxs da América Latina (como eu mesmo). Me pareceu uma decisão política fantástica, com uma influência clara do pessoal do [Medialab Prado](http://medialab-prado.es/) . Um dos resultados dessa escolha foi um primeiro contato entre pessoas e grupos que - por conta de contextos similares e proximidade geográfica - deveriam ter entre si muito mais intercâmbio do que realmente acontece.

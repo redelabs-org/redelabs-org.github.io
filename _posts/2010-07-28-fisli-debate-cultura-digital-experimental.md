@@ -6,6 +6,8 @@ date: 2010-07-28
 categories:
   - 'Sem categoria'
 original_source: blog/fisli-debate-cultura-digital-experimental.html
+redirect_from:
+  - blog/fisli-debate-cultura-digital-experimental.html
 ---
 
 Apareceu meio em cima da hora a oportunidade de organizar um debate sobre cultura digital experimental (que está virando o eixo principal de reflexão do projeto [redelabs]({{ "/" | relative_url }}) ) durante o [FISL](http://softwarelivre.org/fisl11) na semana passada, em Porto Alegre. Montamos uma mesa meio às pressas, com [Adriano Belisário](http://culturadigital.br/members/adrianobelisrio/) , [Vilson Vieira](http://www.musa.cc/) , [Ricardo Ruiz](http://culturadigital.br/ruiz) , [Glerm Soares](http://organismo.art.br/) + [Simone](http://organismo.art.br/) e [Dalton Martins](http://daltonmartins.blogspot.com/). [Maira](http://culturadigital.br/maira) agitou as coisas por lá. Eu não pude ir, e também não consegui estar online para acompanhar o stream ao vivo. 

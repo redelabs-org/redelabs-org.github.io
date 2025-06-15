@@ -6,6 +6,8 @@ date: 2011-01-16
 categories:
   - 'projetos'
 original_source: blog/bolsa-de-cultura-digital-experimental-documentando.html
+redirect_from:
+  - blog/bolsa-de-cultura-digital-experimental-documentando.html
 ---
 
 Enviei há alguns dias na lista de discussão [redelabs](http://groups.google.com/group/redelabs) um relato sobre o desenvolvimento, no ano passado, de um edital de bolsas para pesquisa em cultura digital experimental que acabou não vingando. Segue abaixo uma versão resumida da história. \-\-- Ao fim da nossa [conversa na Cinemateca](http://culturadigital.br/redelabs/2010/11/encontro-redelabs-como-foi/) durante o [Fórum](http://culturadigital.br/) , cheguei a comentar que tinha ajudado a elaborar um edital de bolsas de cultura digital experimental que estava pra ser lançado pela coordenadoria de cultura digital do Minc. Era parte de um conjunto de editais que eles queriam lançar no fim do ano, que também contaria com editais para software livre, acervos digitais e alguns outros temas. No fim das contas não houve verba ou tempo para lançá-lo. De todo modo, quero contar um pouco do processo e de alguns mecanismos que a gente encontrou ali e que podem ser úteis pra outras iniciativas. É uma viagem essa coisa de dialogar com as restrições institucionais e encontrar brechas para flexibiizar as coisas aos pouquinhos\... cansativo e frustrante, mas ainda assim dá uma satisfação cada pequena vitória.

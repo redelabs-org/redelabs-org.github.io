@@ -6,6 +6,8 @@ date: 2010-11-04
 categories:
   - 'eventos'
 original_source: blog/encontro-redelabs-preparando.html
+redirect_from:
+  - blog/encontro-redelabs-preparando.html
 ---
 
 O [Encontro RedeLabs]({{ "/" | relative_url }}) , a realizar-se em duas semanas durante o [Fórum de Cultura Digital](http://culturadigital.br/forum2010) , na [Cinemateca](http://cinemateca.gov.br/) , já tem preenchidas suas 50 vagas. Há alguns dias mandei essa mensagem aos convidados:

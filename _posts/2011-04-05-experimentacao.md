@@ -6,6 +6,8 @@ date: 2011-04-05
 categories:
   - 'pessoas'
 original_source: blog/experimentacao.html
+redirect_from:
+  - blog/experimentacao.html
 ---
 
 [Bruce Sterling](http://twitter.com/bruces) , no [encerramento do Reboot 11](http://video.reboot.dk/video/486788/bruce-sterling-reboot-11) (em 2009):

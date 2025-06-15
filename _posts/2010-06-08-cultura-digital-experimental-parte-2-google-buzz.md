@@ -6,6 +6,8 @@ date: 2010-06-08
 categories:
   - 'Sem categoria'
 original_source: blog/cultura-digital-experimental-parte-2-google-buzz/index.html
+redirect_from:
+  - blog/cultura-digital-experimental-parte-2-google-buzz/index.html
 ---
 
 Ainda editando os comentários a partir da provocação do termo \"cultura digital experimental\". Ontem [postei aqui]({{ "/blog/cultura-digital-experimental-parte-1-twitter/" | relative_url }}) as conversas que isso gerou no twitter. Hoje trago um pedaço editado da [longa conversa que rolou no google buzz](http://www.google.com/buzz/felipefonseca/75z5QHmMLZy/como-soa-pra-vocês-falar-em-cultura-digital) . Eu parei a conversa lá por enquanto, porque ela já levantou alguns pontos que merecem atenção específica, e também porque o papo está continuando na [lista da MetaReciclagem](http://lista.metareciclagem.org/) (e eu vou postar aqui nos próximos dias)

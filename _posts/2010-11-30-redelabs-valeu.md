@@ -6,6 +6,8 @@ date: 2010-11-30
 categories:
   - 'eventos'
 original_source: blog/redelabs-valeu.html
+redirect_from:
+  - blog/redelabs-valeu.html
 ---
 
 Ao fim do primeiro dia do encontro RedeLabs, enviei essa mensagem para as pessoas que participaram:

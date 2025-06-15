@@ -6,6 +6,8 @@ date: 2010-12-02
 categories:
   - 'eventos'
 original_source: blog/painel-internacional-laboratorios-experimentais.html
+redirect_from:
+  - blog/painel-internacional-laboratorios-experimentais.html
 ---
 
 Uma das ações complementares ao [encontro RedeLabs](http://culturadigital.br/redelabs/2010/11/encontro-redelabs-como-foi/) durante o [Fórum da Cultura Digital Brasileira](http://culturadigital.br/forum2010) foi o painel internacional sobre laboratórios experimentais. Ele deveria ter sido a penúltima atividade do fórum, mas por mudanças na agenda acabamos sendo os últimos. Isso foi interessante porque pudemos nos estender por alguns minutos, e também porque saímos diretamente para a festa de encerramento, ali no saguão.

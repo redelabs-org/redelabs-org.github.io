@@ -6,6 +6,8 @@ date: 2010-06-02
 categories:
   - 'Sem categoria'
 original_source: blog/uma-conversa-com-james-wallbank.html
+redirect_from:
+  - blog/uma-conversa-com-james-wallbank.html
 ---
 
 ![Logo Access Space]({{ "/assets/images/access_aspace_dropshadow20.png" | relative_url }} "Logo Access Space")
