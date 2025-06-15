@@ -7,9 +7,8 @@ layout: home
 
 RedeLabs (2010-2016) foi uma plataforma para investigação independente sobre laboratórios experimentais de cultura digital que teve diversas etapas de desenvolvimento:
 
-- Foi criada em 2010 por Felipe Schmidt Fonseca e Maira Begalli, ao longo da preparação para o [encontro rede//labs](/encontro-redelabs), que aconteceu durante o segundo Fórum CulturaDigital.Br, em São Paulo.
-- Coordenou a curadoria e produção do LabX, laboratório experimental durante o Festival CulturaDigital.Br em São Paulo (2011).
-- Publicou uma série de vídeos e textos em parceria com o Centro Cultural da Espanha em São Paulo, dentro do eixo [Metalab](/metalab).
+- Foi criada em 2010 por Felipe Schmidt Fonseca e Maira Begalli, acompanhando a preparação para o [encontro rede//labs](/encontro-redelabs), que aconteceu durante o segundo Fórum CulturaDigital.Br, em São Paulo.
+- Articulou a publicação de uma série de vídeos e textos em parceria com o Centro Cultural da Espanha em São Paulo, dentro do eixo [METALAB](/metalab) (além de realizar a curadoria e produção do [LabX](/blog/2012/01/23/labx-festival-culturadigital-br) durante o Festival CulturaDigital.Br no Rio de Janeiro, em 2011.
 - Entre 2012 e 2014, acompanhou a pesquisa que resultaria na dissertação de mestrado [REDE//LABS - laboratórios experimentais em rede](/pesquisa-redelabs), de Felipe Schmidt Fonseca.
 - Em 2016, hospedou o levantamento [Arranjos Experimentais Criativos em Cultura Digital](/arranjos-experimentais), conduzido por Felipe e Luciana Fleischman para a Coordenadoria Geral de Cultura Digital do Ministério da Cultura do Brasil.
 
