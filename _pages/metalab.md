@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Metalab'
+title: 'METALAB'
 permalink: '/metalab'
 exclude: true
 ---
@@ -13,15 +13,15 @@ A plataforma rede//labs produziu uma série de textos e encomendou quatro vídeo
 
 ## Textos
 
-- [Apropriação crítica, industrialização e distanciamento]
-- [LABX - Festival CulturaDigital.Br]
-- [Sobre Labs e Futuros]
-- [Ciência Cidada - conversa com Andres Burbano]
-- [Os céus sobre o Rio]
+- [Apropriação crítica, industrialização e distanciamento](https://desvio.github.io/blog/apropriacao-critica/) (no blog desvio)
+- [LABX - Festival CulturaDigital.Br](/blog/2012/01/23/labx-festival-culturadigital-br)
+- [Sobre Labs e Futuros](/blog/2012/03/11/sobre-labs-e-futuros)
+- [Ciência Cidadã - conversa com Andres Burbano](https://ubalab.github.io/blog/ciencia-cidada-conversa-com-andres-burbano.html) (no blog UbaLab)
+- [Os céus sobre o Rio](https://ubalab.github.io/blog/os-ceus-sobre-o-rio.html) (blog UbaLab)
 
 ## Vìdeos
 
 - [Solvendo e Coagulando](/metalab/solvendo-coagulando)
 - [Casa da Cultura Digital](/metalab/ccd)
-- [Cachoeira, Bahia](/metalab/cachoeira-bahia)
+- [hacklaBahia!](/metalab/hacklabahia)
 - [Interfaces Públicas](/metalab/interfaces-publicas)
