@@ -6,6 +6,8 @@ date: 2010-08-20
 categories:
   - 'pessoas'
 original_source: blog/entrevista-drew-hemment.html
+redirect_from:
+  - blog/entrevista-drew-hemment.html
 ---
 
 Continuando o [post anterior]({{ "/blog/future-everything-festivais-como-laboratorios-vivos/" | relative_url }}) (sobre o [Future Everything](http://futureeverything.org/) ), vai abaixo uma curtíssima entrevista que consegui fazer com Drew Hemment. Drew é diretor do festival Future Everything, que nesse ano sediou também a Glonet (global networked event) - a qual contou com um capítulo brasileiro junto com o [Arte.Mov](http://artemov.net/) . Ele esteve no Brasil há alguns anos (relato [aqui](http://www.futureeverything.org/blog/2010/05/exploring-sao-paulo-digital-culture-in-december-2007/) ).

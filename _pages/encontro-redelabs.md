@@ -3,6 +3,10 @@ layout: page
 title: 'Encontro Redelabs'
 permalink: '/encontro-redelabs'
 exclude: true
+redirect_from:
+  - /livro/compilacao-redelabs-2010.html
+  - /livro/preparacao-redelabs-2010.html
+  - /livro/primeiro-encontro-redelabs-2010.html
 ---
 
 ## Preparação

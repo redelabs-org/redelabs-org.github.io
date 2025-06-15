@@ -6,6 +6,8 @@ date: 2010-06-13
 categories:
   - 'Sem categoria'
 original_source: blog/laboratorios-de-midia-referencias.html
+redirect_from:
+  - blog/laboratorios-de-midia-referencias.html
 ---
 
 A ideia de laboratório de mídia é uma construção diversa e bastante genérica - e justamente por isso, com significados distintos. Muitos modelos diferentes usam esse nome: de grandes estruturas que se propõem a dar forma ao futuro da humanidade, até iniciativas de pequenos grupos que, em sentido complementar, promovem a apropriação crítica das tecnologias, buscando humanizar o desenvolvimento e uso destas. Além de dezenas de outros formatos que se inserem no contexto da educação, do uso comercial de novas mídias, da busca artística formal, etc. Este post pretende explorar dois modelos emblemáticos e relacionados: o [Medialab do MIT](http://media.mit.edu/) e alguns laboratórios de mídia europeus.

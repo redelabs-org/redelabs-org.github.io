@@ -6,6 +6,8 @@ date: 2011-04-14
 categories:
   - 'eventos'
 original_source: blog/laboratorios-e-redes-desde-uma-perspectiva-das-comunidades-–-comunidades-desde-uma-perspectiva-.html
+redirect_from:
+  - blog/laboratorios-e-redes-desde-uma-perspectiva-das-comunidades-–-comunidades-desde-uma-perspectiva-.html
 ---
 
 [LabSurLab](http://labsurlab.co/) pode ser compreendido como "metáfora e prática" de "formação e trabalho" em rede. As identidades envolvidas -- representando ativistas, estados, empresas -- empregaram uma dinâmica capaz de desenhar um discurso um tanto esquecido pelas políticas públicas, em especial propagado pelas instituições de ensino: a interdisciplinaridade.

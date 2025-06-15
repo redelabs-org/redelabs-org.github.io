@@ -6,6 +6,8 @@ date: 2011-02-28
 categories:
   - 'eventos'
 original_source: blog/campus-party-labs-e-centros-de-fomento-cultura-digital.html
+redirect_from:
+  - blog/campus-party-labs-e-centros-de-fomento-cultura-digital.html
 ---
 
 No fim de janeiro estive na Campus Party para participar de um debate sobre [Labs e centros de fomento à cultura digital](http://cpbrasil.ism.org.br/?page_id=311) a convite do [Instituto Sergio Motta](http://ism.org.br/) , que estava desenvolvendo a área de Design, Foto e Vídeo. Junto comigo no palco estavam [Dani Bousso](http://mis-sp.org.br/) e [Guilherme Kujawski](http://twitter.com/kuja) . Dani contou um pouco sobre as realizações e obstáculos enfrentados pelo [LabMis](http://www.mis-sp.org.br/labmis) , e também sobre os programas de residências e intercâmbio internacional. Kuja falou um pouco sobre o [Itaulab](http://www.itaucultural.org.br/index.cfm?cd_pagina=1989) e depois passou algum tempo analisando sobre como a [hipótese comunista](http://www.newleftreview.org/A2705) pode se articular com possibilidades abertas pelas culturas digitais (sobre isso, eu também recomendo a leitura do [Manifesto Telecomunista](http://networkcultures.org/wpmu/weblog/2010/10/21/the-telekommunist-from-dmytri-kleiner-is-out-now/) do Dmyitri Kleiner).

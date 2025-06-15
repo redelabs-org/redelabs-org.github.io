@@ -6,6 +6,8 @@ date: 2010-11-30
 categories:
   - 'eventos'
 original_source: blog/redelabs-uma-semana.html
+redirect_from:
+  - blog/redelabs-uma-semana.html
 ---
 
 Quando faltava uma semana para o encontro RedeLabs, mandei a mensagem abaixo para todo mundo que tinha confirmado a participação. Ela dava um retorno sobre algumas conversas paralelas, falava sobre o status dos planos e incluía uma compilação de posts do blog [RedeLabs](http://culturadigital.br/redelabs) .

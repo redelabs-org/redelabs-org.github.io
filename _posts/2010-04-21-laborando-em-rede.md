@@ -6,6 +6,8 @@ date: 2010-04-21
 categories:
   - 'Meta'
 original_source: blog/laborando-em-rede.html
+redirect_from:
+  - blog/laborando-em-rede.html
 ---
 
 Mais uma vez um certo pânico da página em branco (essa metáfora faz algum sentido online?). Criei esse blog para documentar as descobertas, insights, reflexões e elocubrações de um processo aberto de pesquisa que estou fazendo. A base da qual estou partindo é uma questão que tentei elaborar em três posts no blog [Desvio](http://desvio.github.io/) no fim do ano passado:

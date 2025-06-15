@@ -6,6 +6,8 @@ date: 2010-05-25
 categories:
   - 'Sem categoria'
 original_source: blog/o-seminario-redelabs.html
+redirect_from:
+  - blog/o-seminario-redelabs.html
 ---
 
 

@@ -2,6 +2,8 @@
 layout: page
 permalink: '/pesquisa-redelabs/labs-no-mundo'
 exclude: true
+redirect_from:
+  - /livro/labs-no-mundo.html
 ---
 
 **Pesquisa Rede//Labs - Capítulos**

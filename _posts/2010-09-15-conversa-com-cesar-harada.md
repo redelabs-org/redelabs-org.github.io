@@ -6,6 +6,8 @@ date: 2010-09-15
 categories:
   - 'Sem categoria'
 original_source: blog/conversa-com-cesar-harada.html
+redirect_from:
+  - blog/conversa-com-cesar-harada.html
 ---
 
 ![Cesar Harada](/assets/images/2010_harada.jpg)

@@ -6,6 +6,8 @@ date: 2010-06-17
 categories:
   - 'Sem categoria'
 original_source: blog/cultura-digital-experimental-parte-3-lista-metareciclagem.html
+redirect_from:
+  - blog/cultura-digital-experimental-parte-3-lista-metareciclagem.html
 ---
 
 Terminando de editar a conversa que começou com um post em microblogs perguntando sobre \"cultura digital experimental\" (e já resultou nesses dois posts aqui: [1]({{ "/blog/cultura-digital-experimental-parte-1-twitter/" | relative_url }}) [2]({{ "/blog/cultura-digital-experimental-parte-2-google-buzz/" | relative_url }}) ), e depois migrou para a [lista da rede MetaReciclagem](http://lista.metareciclagem.org/) . Abaixo os melhores momentos dessa conversa na lista: Glerm Soares [começou](http://article.gmane.org/gmane.politics.organizations.metareciclagem/37056) puxando um [comentário](http://www.labtolab.org/~labtolab/wiki/index.php/Questionnaire_Marginalia+Lab) do pessoal do Marginalia Lab às questões propostas no [Labtolab](http://www.labtolab.org/) , evento do qual eu também participei na semana passada:

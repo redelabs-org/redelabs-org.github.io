@@ -6,6 +6,8 @@ date: 2010-09-03
 categories:
   - 'Sem categoria'
 original_source: blog/bate-papo-com-gisela-domschke.html
+redirect_from:
+  - blog/bate-papo-com-gisela-domschke.html
 ---
 
 Conversei há alguns meses com [Gisela Domschke](http://giselad.com/) \* sobre alguns assuntos relacionados aos [Redelabs]({{ "/" | relative_url }}) . Foi em 2008, quando Gisela havia retornado da Inglaterra (onde lecionara no Mestrado de Mídia Interativa da [Goldsmiths](http://gold.ac.uk/) ) e coordenava o [LabMIS](http://www.mis-sp.org.br/labmis) , que eu a conheci por intermédio de [Bronac Ferran](http://boundaryobject.org/) . Desde então temos nos encontrado em trilhas cruzadas, principalmente em diversos eventos em Sampa.

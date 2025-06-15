@@ -6,6 +6,8 @@ date: 2010-08-09
 categories:
   - 'Sem categoria'
 original_source: blog/entrevista-alejo-duque.html
+redirect_from:
+  - blog/entrevista-alejo-duque.html
 ---
 
 Há alguns meses, durante a [Lift](http://liftconference.com/lift10/) em Genebra, conversei sobre laboratórios enredados, estratégias nômades e assuntos afins com Alejo Duque. Alejo é um artista colombiano que vive na Suíça e circula por diversos espaços de arte eletrônica, ativismo midiático e afins. Também é um colega de rede [Bricolabs](http://bricolabs.net/) . Vão abaixo alguns pedaços da conversa.

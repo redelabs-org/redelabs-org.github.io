@@ -6,6 +6,8 @@ date: 2010-06-14
 categories:
   - 'Sem categoria'
 original_source: blog/um-resumo-do-brasil-profundo.html
+redirect_from:
+  - blog/um-resumo-do-brasil-profundo.html
 ---
 
 > Escrevi há dois anos um artigo que seria publicado como [caderno submidiático #7](http://pub.descentro.org/caderno_submidiatico_7_em_busca_do_brasil_profundo) do [des).(centro](http://pub.descentro.org/) e posteriormente no livro [Apropriações Tecnológicas](http://pub.descentro.org/wiki/apropriações_tecnológicas_emergência_de_textos_idéias_e_imagens_do_submidialogia3) . O que segue abaixo é uma tentativa de contar a mesma história sob a perspectiva dos laboratórios de mídia.

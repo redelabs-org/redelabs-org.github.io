@@ -6,6 +6,8 @@ date: 2010-12-02
 categories:
   - 'eventos'
 original_source: blog/painel-laboratorios-experimentais-anotacoes.html
+redirect_from:
+  - blog/painel-laboratorios-experimentais-anotacoes.html
 ---
 
 ﻿Enquanto moderava o [painel sobre laboratórios experimentais](http://culturadigital.br/redelabs/2010/12/painel-internacional-laboratorios-experimentais/) no [Fórum da Cultura Digital Brasileira](http://culturadigital.br/forum2010) e tuitava, eu também fazia algumas anotações a mão no caderninho. Vai aí um relance, mais como um mapa de palavras-chave do que relato extensivo.

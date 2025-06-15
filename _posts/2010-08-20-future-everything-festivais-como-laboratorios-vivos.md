@@ -6,6 +6,8 @@ date: 2010-08-20
 categories:
   - 'eventos'
 original_source: blog/future-everything-festivais-como-laboratorios-vivos/index.html
+redirect_from:
+  - blog/future-everything-festivais-como-laboratorios-vivos/index.html
 ---
 
 ![Contact Theatre](http://farm5.static.flickr.com/4011/4616731155_9016cb902a_d.jpg "Contact Theatre")

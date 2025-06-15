@@ -6,6 +6,8 @@ date: 2010-11-30
 categories:
   - 'eventos'
 original_source: blog/redelabs-alinhando.html
+redirect_from:
+  - blog/redelabs-alinhando.html
 ---
 
 Duas semanas antes do encontro RedeLabs, eu mandei uma mensagem a todas as pessoas que haviam confirmado a participação. A ideia era preparar o terreno e esquentar os motores. Um pedaço da mensagem - histórico, expectativas - eu publiquei [aqui](http://culturadigital.br/redelabs/2010/11/encontro-redelabs-preparando/ "Preparando") ; e o restante - formato, etc. - vai abaixo:

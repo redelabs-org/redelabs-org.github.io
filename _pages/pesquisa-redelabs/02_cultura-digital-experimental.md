@@ -2,6 +2,8 @@
 layout: page
 permalink: '/pesquisa-redelabs/cultura-digital-experimental'
 exclude: true
+redirect_from:
+  - /livro/cultura-digital-experimental.html
 ---
 
 **Pesquisa Rede//Labs - Capítulos**

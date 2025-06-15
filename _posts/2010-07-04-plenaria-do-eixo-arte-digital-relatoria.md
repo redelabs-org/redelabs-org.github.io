@@ -6,6 +6,8 @@ date: 2010-07-04
 categories:
   - 'Sem categoria'
 original_source: blog/plenaria-do-eixo-arte-digital-relatoria.html
+redirect_from:
+  - blog/plenaria-do-eixo-arte-digital-relatoria.html
 ---
 
 Pesquisando o processo construído colaborativamente no Fórum de Cultura Digital sob a coordenação de [Cícero Silva](http://culturadigital.br/members/cicerosilva) , encontrei um post de [Henrique Costa](http://culturadigital.br/members/henriquecosta/) resumindo a plenária. Alguns pontos ali certamente têm relação com a conversa de redelabs:

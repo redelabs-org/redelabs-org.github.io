@@ -18,3 +18,4 @@ group :jekyll_plugins do
   # For example:
 end
 gem "jekyll-sitemap", "~> 1.4.0"
+gem 'jekyll-redirect-from'

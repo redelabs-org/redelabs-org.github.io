@@ -7,6 +7,8 @@ categories:
   - 'eventos'
   - 'pessoas'
 original_source: blog/o-futuro-dos-laboratorios.html
+redirect_from:
+  - blog/o-futuro-dos-laboratorios.html
 ---
 
 ![Future of the Lab]({{ "/assets/images/fotl.png" | relative_url }} "Future of the Lab")

@@ -2,6 +2,8 @@
 layout: page
 permalink: '/pesquisa-redelabs/espacos-em-branco'
 exclude: true
+redirect_from:
+  - /livro/conclusao-espacos-em-branco.html
 ---
 
 

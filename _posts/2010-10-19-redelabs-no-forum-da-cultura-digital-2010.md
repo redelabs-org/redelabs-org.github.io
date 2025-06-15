@@ -6,6 +6,8 @@ date: 2010-10-19
 categories:
   - 'eventos'
 original_source: blog/redelabs-no-forum-da-cultura-digital-2010.html
+redirect_from:
+  - blog/redelabs-no-forum-da-cultura-digital-2010.html
 ---
 
 Durante a segunda edição do [Fórum Brasileiro de Cultura Digital](http://culturadigital.br/forum2010) vamos realizar o encontro [Redelabs]({{ "/" | relative_url }}) , que vai reunir especialistas em diversas áreas para debater possibilidades e ideias relacionadas a espaços dedicados ao que a gente vem chamando aqui de cultura digital experimental. O objetivo é começar uma conversa colaborativa que possa se repetir em outras ocasiões e gerar projetos transversais entre os grupos, redes e instituições presentes. Abaixo o texto do convite que estamos mandando.

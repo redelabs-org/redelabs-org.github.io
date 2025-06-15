@@ -2,6 +2,9 @@
 layout: page
 permalink: '/pesquisa-redelabs/laboratorios-experimentais'
 exclude: true
+redirect_from:
+  - /livro/redelabs-laboratorios-experimentais-em-rede.html
+  - /livro/laboratorios-experimentais-em-rede.html
 ---
 
 **Pesquisa Rede//Labs - Capítulos**
