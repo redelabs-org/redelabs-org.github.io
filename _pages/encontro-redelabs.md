@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 'Encontro Redelabs'
 permalink: '/encontro-redelabs'
 exclude: true
 redirect_from:
@@ -9,11 +8,17 @@ redirect_from:
   - /livro/primeiro-encontro-redelabs-2010.html
 ---
 
-## Preparação
+# Encontro Redelabs
 
-Compilação de textos e posts distribuídos em 2010 como preparação para o encontro Rede//Labs realizado durante a segunda edição do Fórum da Cultura Digital Brasileira, na Cinemateca, em São Paulo. O arquivo PDF está disponível para acesso e download no <a href="http://pt.scribd.com/doc/99673211/Compilacao-RedeLabs-2010">Scribd</a> e <a href="https://archive.org/details/redelabs">Archive.org</a>.
+O primeiro encontro de laboratórios de cultura digital experimental aconteceu durante a segunda edição do Fórum CulturaDigital.Br, em novembro de 2010 na Cinemateca Brasileira, em São Paulo. O site redelabs.org foi criado inicialmente para documentar as conversas e pesquisas preparatórias que antecederam o encontro.
 
-Compilação de posts sobre o encontro Rede//Labs realizado em 2010 na Cinemateca Brasileira, dentro da programação do segundo Fórum CulturaDigital.Br.
+## Compilação
+
+Publicação com textos e posts compartilhada com participantes do encontro Rede//Labs. O arquivo PDF está disponível para acesso e download no <a href="https://archive.org/details/redelabs">Archive.org</a> e <a href="http://pt.scribd.com/doc/99673211/Compilacao-RedeLabs-2010">Scribd</a>.
+
+## Neste site
+
+Posts sobre o encontro Rede//Labs realizado em 2010 na Cinemateca Brasileira, dentro da programação do segundo Fórum CulturaDigital.Br.
 
 - [Redelabs no Fórum da Cultura Digital 2010](/blog/2010/10/19/redelabs-no-forum-da-cultura-digital-2010)
 - [Encontro Redelabs - preparando](/blog/2010/11/04/encontro-redelabs-preparando)
