@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: '/metalab/interfaces-publicas'
+date: 2012-09-18
 exclude: true
 ---
 
-# [METALAB](/projetos/metalab) > Interfaces Públicas
+# [METALAB](/projetos/metalab) - Interfaces Públicas
 
 ![](/assets/images/interfaces-publicas.jpg)
 

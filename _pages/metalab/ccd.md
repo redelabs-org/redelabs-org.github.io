@@ -2,9 +2,10 @@
 layout: page
 permalink: '/metalab/ccd'
 exclude: true
+date: 2012-07-05
 ---
 
-# [METALAB](/projetos/metalab) > Casa da Cultura Digital
+# [METALAB](/projetos/metalab) - Casa da Cultura Digital
 
 ![](/assets/images/ccd.jpg)
 

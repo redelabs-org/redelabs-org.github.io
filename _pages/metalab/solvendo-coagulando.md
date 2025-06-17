@@ -2,9 +2,10 @@
 layout: page
 permalink: '/metalab/solvendo-coagulando'
 exclude: true
+date: 2012-06-20
 ---
 
-# [METALAB](/projetos/metalab) > Solvendo e Coagulando
+# [METALAB](/projetos/metalab) - Solvendo e Coagulando
 
 ![](/assets/images/solvendo-coagulando.jpg)
 

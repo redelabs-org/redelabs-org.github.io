@@ -2,9 +2,10 @@
 layout: page
 permalink: '/metalab/hacklabahia'
 exclude: true
+date: 2012-07-11
 ---
 
-# [METALAB](/projetos/metalab) > hacklaBahia!
+# [METALAB](/projetos/metalab) - hacklaBahia!
 
 ![](/assets/images/hacklabahia.jpg)
 
