@@ -5,7 +5,7 @@ exclude: true
 date: 2012-07-11
 ---
 
-# [METALAB](/projetos/metalab) - hacklaBahia!
+# [METALAB](/metalab) - hacklaBahia!
 
 ![](/assets/images/hacklabahia.jpg)
 
