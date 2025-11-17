@@ -5,7 +5,7 @@ exclude: true
 date: 2012-06-20
 ---
 
-# [METALAB](/projetos/metalab) - Solvendo e Coagulando
+# [METALAB](/metalab) - Solvendo e Coagulando
 
 ![](/assets/images/solvendo-coagulando.jpg)
 

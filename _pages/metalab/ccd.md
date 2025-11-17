@@ -5,7 +5,7 @@ exclude: true
 date: 2012-07-05
 ---
 
-# [METALAB](/projetos/metalab) - Casa da Cultura Digital
+# [METALAB](/metalab) - Casa da Cultura Digital
 
 ![](/assets/images/ccd.jpg)
 
